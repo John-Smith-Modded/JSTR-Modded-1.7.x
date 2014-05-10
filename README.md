@@ -23,6 +23,7 @@ This repository is for modded texture version control. This is where all the JST
 * goldbattle
 * Leenhaart
 * jlbrewer
+* kardain
 * Satellence
 [More...](https://github.com/John-Smith-Modded/JSTR-1.7.x/graphs/contributors)
 
