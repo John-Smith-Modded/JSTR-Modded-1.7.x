@@ -1,6 +1,6 @@
 ![John Smith: Technician's Remix](http://i.imgur.com/rmdNmOC.jpg)  
 
-### Welcome to the John Smith: Technician's Remix 17.x6 Repository ###
+### Welcome to the John Smith: Technician's Remix 1.7.x Repository ###
 ------------------------------------------------------------------
 
 ### ***JSTR for MC 1.7.x*** ###
