@@ -1,0 +1,5 @@
+JohnSmithLegacy folder contains an alternate texture for the quartz ore. This alternate texture matches the stone texture found in the base JohnSmithLegacy pack. The default quartz ore texture is to match the stone texture found in the JSC edition of JohnSmith.
+
+The quantum ring folder contains a more "traditional style" of quantum ring. All three files required if wanting to change to this style.
+
+Simply replace the files in either folder with the file in assets/appliedenergistics2/textures/blocks/ with that you are wanting to change.
