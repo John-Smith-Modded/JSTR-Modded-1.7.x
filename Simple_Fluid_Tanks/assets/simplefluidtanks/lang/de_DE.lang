@@ -1,0 +1,38 @@
+# Blocks
+tile.tankBlock.name=Flüssigkeitstank
+tile.valveBlock.name=Ventil
+# Items
+item.tankItem.name=Flüssigkeitstank
+item.tankItem.toolTip=§e§oUmschalten§r§7 gedrückt halten für Details.
+item.tankItem.toolTipDetails0=Halte schleichen und benutze einen 
+item.tankItem.toolTipDetails1=BuildCraft kompatiblen Schraubenschlüssel 
+item.tankItem.toolTipDetails2=um Tanks aus der Multiblock Konstruktion zu 
+item.tankItem.toolTipDetails3=entfernen.
+item.tankItem.toolTipDetails4=§9Nimmt bis zu §b%d §9Eimer Flüssigkeit auf.
+item.valveItem.name=Ventil
+item.valveItem.toolTip=§e§oUmschalten§r§7 gedrückt halten für Details.
+item.valveItem.toolTipDetails0=Benutze einen BuildCraft kompatiblen 
+item.valveItem.toolTipDetails1=Schraubenschlüssel mit dem Ventil um 
+item.valveItem.toolTipDetails2=der Multiblock Konstruktion neue Tank 
+item.valveItem.toolTipDetails3=Blöcke hinzuzufügen, ohne Flüssigkeit 
+item.valveItem.toolTipDetails4=zu verlieren. Beachte dass, das Ventil 
+item.valveItem.toolTipDetails5=was die Gesamtkapazität angeht als 
+item.valveItem.toolTipDetails6=Tank zählt und zusammen mit einem 
+item.valveItem.toolTipDetails7=Komparator ein Redstone Signal abgibt.
+item.wrench.name=Schraubenschlüssel
+# Waila option labels
+waila.tankCount=Tank Anzahl
+waila.totalCapacity=Gesamtkapazität
+waila.linkStatus=Verbindungsstatus
+waila.tankCapacity=Tankkapazität
+waila.capacityInMb=Kapazitäten in mB
+waila.fluidName=Flüssigkeitsname
+# Waila tooltip texts
+waila.toolTip.isLinked=Verbunden: §c%s
+waila.toolTip.tankCapacity=Kapazität: §b%,d§r %s (%d%%)
+waila.toolTip.valveCapacity=Kapazität: §b%,d/%,d§r %s (%d%%)
+waila.toolTip.tanks=Tanks: §b%,d
+waila.toolTip.fluid=Flüssigkeit: §b%s
+waila.toolTip.fluidEmpty=Leer
+waila.toolTip.yes=Ja
+waila.toolTip.no=Nein
