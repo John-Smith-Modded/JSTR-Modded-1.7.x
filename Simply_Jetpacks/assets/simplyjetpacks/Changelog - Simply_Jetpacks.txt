@@ -1,0 +1,7 @@
+2014 May 7
+- Initial commit for version 0.1.4.1
+- Untextured (will need to extract from jar): 
+  - assets/simplyjetpacks/textures/items/metalitem1_0.png
+  - assets/simplyjetpacks/textures/items/metalitem1_1.png
+  - assets/simplyjetpacks/textures/items/metalitem1_2.png
+  - assets/simplyjetpacks/textures/items/metalitem1_3.png
