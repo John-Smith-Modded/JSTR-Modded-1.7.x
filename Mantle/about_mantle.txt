@@ -1,1 +1,0 @@
-Mantle is a required dependency for TiCon and Natura. It contains separate textures for the tutorial book provided by TiCon.
