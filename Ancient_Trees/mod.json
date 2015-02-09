@@ -1,0 +1,10 @@
+{
+  "mod_id": "dendrology",
+  "mod_name": "AncientTrees",
+  "mod_dir": "/Ancient_Trees/",
+  "mod_version": "1.2.2",
+  "mc_version": "1.7.10",
+  "mod_authors": ["ScottKillen", "Blorph", "Ruyuna"],
+  "url_website": "http://scottk.us/AncientTrees",
+  "description": "A Minecraft mod that adds many extinct tree species to the world"
+}
