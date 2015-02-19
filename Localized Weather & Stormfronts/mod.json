@@ -1,0 +1,10 @@
+{
+  "mod_id": "weather2",
+  "mod_name": "Localized Weather & Stormfronts",
+  "mod_dir": "/Localized Weather & Stormfronts/",
+  "mod_version": "v2.3.7",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Corosus"],
+  "url_website": "http://coros.us/mods/weather2",
+  "description": "Adds a whole new weather system with stormfronts, winds and tornadoes."
+}
