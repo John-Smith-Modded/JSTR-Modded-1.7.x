@@ -1,0 +1,10 @@
+{
+  "mod_id": "malisisdoors",
+  "mod_name": "Malisis' Doors",
+  "mod_dir": "/Malisis_Doors/",
+  "mod_version": "v1.4.3",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Malisis"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/223891-malisis-doors",
+  "description": "This mod changes vanilla door animations and adds unique new doors to the game."
+}
