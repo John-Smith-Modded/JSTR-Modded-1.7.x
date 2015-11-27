@@ -5,7 +5,7 @@
 
 ### ***JSTR for MC 1.7.x*** ###
 
-This repository is for modded texture version control. This is where all the JSTR modded textures reside. Please be aware due to constant state of flux MC has been experencing in relation to texture/resource packs JSTR is in a very WIP state at the moment. Feel free to hope on board and help out with making textures! Just remember to follow the guidelines below.
+This repository is for modded texture version control. This is where all the JSTR modded textures reside. Please be aware due to constant state of flux MC has been experencing in relation to texture/resource packs JSTR is in a very WIP state at the moment. Feel free to hop on board and help out with making textures! Just remember to follow the guidelines below.
 
 #### JSTR Guidelines: ####
 
@@ -25,7 +25,7 @@ This repository is for modded texture version control. This is where all the JST
 * jlbrewer
 * kardain
 * Satellence
-[More...](https://github.com/John-Smith-Modded/JSTR-1.7.x/graphs/contributors)
+* [More...](https://github.com/John-Smith-Modded/JSTR-1.7.x/graphs/contributors)
 
 
 #### How to submit your own textures: ####
