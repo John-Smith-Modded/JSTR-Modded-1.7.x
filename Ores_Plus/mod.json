@@ -1,0 +1,10 @@
+{
+  "mod_id": "oresplus",
+  "mod_name": "Ores Plus",
+  "mod_dir": "/Ores_Plus/",
+  "mod_version": "v0.7.3.41B",
+  "mc_version": "1.7.10",
+  "mod_authors": ["TheTorbinWren"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/oresplus",
+  "description": "Add and manage ores in your Minecraft world."
+}

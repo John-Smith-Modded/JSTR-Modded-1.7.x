@@ -1,0 +1,10 @@
+{
+  "mod_id": "progressiveautomation",
+  "mod_name": "Progressive Automation",
+  "mod_dir": "/Progressive_Automation/",
+  "mod_version": "v1.5.24",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Vanhal"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/220606-progressive-automation-early-miner",
+  "description": "A mod that adds automation that can be built in the early game and upgraded throughout late game."
+}

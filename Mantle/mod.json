@@ -1,0 +1,10 @@
+{
+  "mod_id": "Mantle",
+  "mod_name": "Mantle",
+  "mod_dir": "/Mantle/",
+  "mod_version": "v0.3.2b",
+  "mc_version": "1.7.10",
+  "mod_authors": ["mDiyo", "Sunstrike", "progWML6"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/mantle",
+  "description": "Shared code for Slime Knights mods and others."
+}

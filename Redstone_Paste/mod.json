@@ -1,0 +1,10 @@
+{
+  "mod_id": "RedstonePasteMod",
+  "mod_name": "Redstone Paste",
+  "mod_dir": "/Redstone_Paste/",
+  "mod_version": "v1.6.2",
+  "mc_version": "1.7.10",
+  "mod_authors": ["FyberOptic"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/redstone-paste",
+  "description": "Adds a paste form of redstone, which can stick to various surfaces."
+}

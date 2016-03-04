@@ -1,0 +1,10 @@
+{
+  "mod_id": "MoreFurnaces",
+  "mod_name": "More Furnaces",
+  "mod_dir": "/More_Furnaces/",
+  "mod_version": "v1.3.9”,
+  "mc_version": "1.7.10",
+  "mod_authors": ["CubeX2"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/more-furnaces",
+  "description": "Three new furnaces: Iron, Gold, Obsidian and Diamond Furnace."
+}
