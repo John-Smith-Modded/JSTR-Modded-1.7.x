@@ -1,0 +1,10 @@
+{
+  "mod_id": "avec",
+  "mod_name": "Automatic Ender Chests",
+  "mod_dir": "/Automatic_Ender_Chests/",
+  "mod_version": "v1.0.8",
+  "mc_version": "1.7.10",
+  "mod_authors": ["panicnot42"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/automatic-ender-chests/",
+  "description": "Ender chests that work with hoppers"
+}

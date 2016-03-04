@@ -1,0 +1,10 @@
+{
+  "mod_id": "bcadditions",
+  "mod_name": "Buildcraft Additions",
+  "mod_dir": "/Buildcraft_Additions/",
+  "mod_version": "v1.8.4",
+  "mc_version": "1.7.10",
+  "mod_authors": ["AEnterprise"],
+  "url_website": "http://minecraft.curseforge.com/projects/buildcraft-additions",
+  "description": "Adds some Additions to Buildcraft"
+}

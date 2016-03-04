@@ -1,0 +1,10 @@
+{
+  "mod_id": "bluepower",
+  "mod_name": "Blue Power",
+  "mod_dir": "/BluePower/",
+  "mod_version": "v0.2.835",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Quetzi", "Zness", "MineMaarten", "K4Unl", "Amadornes"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/223099-blue-power",
+  "description": "Work in progress mod aiming to reintroduce some missing 'glue' blocks from prior versions of modded Minecraft"
+}
