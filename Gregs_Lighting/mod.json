@@ -1,0 +1,10 @@
+{
+  "mod_id": "GregsLighting",
+  "mod_name": "Greg's Lighting",
+  "mod_dir": "/Gregs_Lighting/",
+  "mod_version": "1.11.2",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Greg Ewing"],
+  "url_website": "http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/",
+  "description": "Flood Lights!!!"
+}

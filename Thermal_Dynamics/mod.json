@@ -1,0 +1,10 @@
+{
+  "mod_id": "ThermalDynamics",
+  "mod_name": "Thermal Dynamics",
+  "mod_dir": "/Thermal_Dynamics/",
+  "mod_version": "v1.1.0-161",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Team CoFH"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/227443-thermal-dynamics",
+  "description": "Thermal meets Dynamic - provides options for transporting items, fluids, and Redstone Flux!"
+}

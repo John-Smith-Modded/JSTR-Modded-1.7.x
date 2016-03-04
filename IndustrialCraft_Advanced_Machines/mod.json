@@ -1,0 +1,10 @@
+{
+  "mod_id": "AdvancedMachines",
+  "mod_name": "IC2 Advanced Machines Addon",
+  "mod_dir": "/IndustrialCraft_Advanced_Machines/",
+  "mod_version": "v1.1.3",
+  "mc_version": "1.7.10",
+  "mod_authors": ["AtomicStryker"],
+  "url_website": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907",
+  "description": "Some additional Machines for the electrical Connoisseur."
+}

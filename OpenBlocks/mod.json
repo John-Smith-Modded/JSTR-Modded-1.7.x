@@ -1,0 +1,10 @@
+{
+  "mod_id": "OpenBlocks",
+  "mod_name": "OpenBlocks",
+  "mod_dir": "/OpenBlocks/",
+  "mod_version": "v1.3",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Mikee", "NeverCast", "boq", "Lyqyd"],
+  "url_website": "http://www.openperipheral.info",
+  "description": "All the things you never thought you will ever need."
+}

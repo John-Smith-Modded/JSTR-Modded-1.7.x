@@ -1,0 +1,10 @@
+{
+  "mod_id": "CarpentersBlocks",
+  "mod_name": "Carpenters Blocks",
+  "mod_dir": "/Carpenters_Blocks/",
+  "mod_version": "v3.3.3",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Mineshopper"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288875-carpenters-blocks",
+  "description": "Adds slopes and a variety of vanilla-inspired blocks that support covers, side covers, overlays, dyes and chiselled patterns."
+}

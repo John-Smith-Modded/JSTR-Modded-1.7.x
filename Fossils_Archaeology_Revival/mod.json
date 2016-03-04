@@ -1,0 +1,10 @@
+{
+  "mod_id": "fossil",
+  "mod_name": "Fossils Archaeology Revival",
+  "mod_dir": "/Fossils_Archaeology_Revival/",
+  "mod_version": "v7.2.1",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Microjunk", "Shadowbeast007", "tyranno66", "4f6f3b", "Cannibal Vox"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288066-fossils-and-archeology-revival-build-7-0-1",
+  "description": "Adding dinosaurs, fossils, and more to Minecraft."
+}

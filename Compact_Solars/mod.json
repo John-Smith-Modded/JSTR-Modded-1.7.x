@@ -1,0 +1,10 @@
+{
+  "mod_id": "CompactSolars",
+  "mod_name": "Compact Solar Arrays",
+  "mod_dir": "/Compact_Solars/",
+  "mod_version": "v4.4.39.315",
+  "mc_version": "1.7.2",
+  "mod_authors": ["cpw", "progwml6"],
+  "url_website": "http://forum.industrial-craft.net/index.php?page=Thread&postID=42234",
+  "description": "Compact Solar Arrays, an Industrial Craft 2 mod that adds in three new Solar Panel type blocks."
+}

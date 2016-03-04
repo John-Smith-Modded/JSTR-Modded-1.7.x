@@ -1,0 +1,10 @@
+{
+  "mod_id": "extracells",
+  "mod_name": "Extra Cells",
+  "mod_dir": "/Extra_Cells/",
+  "mod_version": "v2.1.16",
+  "mc_version": "1.7.10",
+  "mod_authors": ["M3gaFr3ak", "DrummerMC"],
+  "url_website": "http://m3gafr3ak.github.io/ExtraCells/",
+  "description": "A Mod that adds 4 new ME Storage Cells and some other cool stuff to AE."
+}

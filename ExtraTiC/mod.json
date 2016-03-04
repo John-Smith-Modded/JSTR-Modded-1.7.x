@@ -1,0 +1,10 @@
+{
+  "mod_id": "ExtraTiC",
+  "mod_name": "ExtraTiC",
+  "mod_dir": "/ExtraTiC/",
+  "mod_version": "v1.4.4",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Glassmaker"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445212-extratic-tinkers-construct-mod-support-add-on",
+  "description": "An Addon-Mod adds cross compatibility for Tinker's Construct."
+}

@@ -1,0 +1,10 @@
+{
+  "mod_id": "witchery",
+  "mod_name": "Witchery",
+  "mod_dir": "/Witchery/",
+  "mod_version": "v0.21.2",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Emoniph"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445248",
+  "description": "Witchery allows players to explore the magical art of witchcraft and though it, to learn to control the natural magic present in the world (and sometimes other dimensions)."
+}

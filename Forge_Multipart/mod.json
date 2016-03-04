@@ -1,0 +1,10 @@
+{
+  "mod_id": "ForgeMultipart",
+  "mod_name": "Forge Multipart",
+  "mod_dir": "/Forge_Multipart/",
+  "mod_version": "v1.1.0.314",
+  "mc_version": "1.7.10",
+  "mod_authors": ["ChickenBones"],
+  "url_website": "https://github.com/Chicken-Bones/ForgeMultipart",
+  "description": "Open source library for facilitation of multiple functional parts in the one block space."
+}

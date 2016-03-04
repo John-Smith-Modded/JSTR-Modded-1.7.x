@@ -1,0 +1,10 @@
+{
+  "mod_id": "ExtrabiomesXL",
+  "mod_name": "Extra Biomes XL",
+  "mod_dir": "/ExtraBiomesXL/",
+  "mod_version": "v3.16.0",
+  "mc_version": "1.7.x",
+  "mod_authors": ["ScottKillen","allaryin","JLBShecky","aivukuro","bspkrs","gwydion0917","ebxl-Zenth","Annysia"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282126-extrabiomesxl-universal-3-16-0-for-mc-1-7-10",
+  "description": "ExtrabiomesXL is a collaborative open source mod for Minecraft which adds new biomes and an assortment of natural blocks and items that enhance gameplay."
+}

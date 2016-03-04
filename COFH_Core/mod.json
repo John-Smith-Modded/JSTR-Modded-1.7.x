@@ -1,0 +1,10 @@
+{
+  "mod_id": "COFHCore",
+  "mod_name": "COFH Core",
+  "mod_dir": "/COFH_Core/",
+  "mod_version": "v3.0.3-303",
+  "mc_version": "1.7.10",
+  "mod_authors": ["TeamCoFH", "KingLemming", "skyboy026", "ZeldoKavira"],
+  "url_website": "http://teamcofh.com/",
+  "description": "CoFH Core Module."
+}

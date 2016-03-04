@@ -1,0 +1,10 @@
+{
+  "mod_id": "NotEnoughItems",
+  "mod_name": "Not Enough Items",
+  "mod_dir": "/Not_Enough_Items/",
+  "mod_version": "v1.0.3.75",
+  "mc_version": "1.7.10",
+  "mod_authors": ["ChickenBones"],
+  "url_website": "http://www.minecraftforum.net/topic/909223",
+  "description": "Recipe Viewer, Inventory Manager, Item Spawner, Cheats and more."
+}

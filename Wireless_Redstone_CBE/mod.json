@@ -1,0 +1,10 @@
+{
+  "mod_id": "WR-CBE",
+  "mod_name": "Wireless Redstone CBE",
+  "mod_dir": "/Wireless_Redstone_CBE/",
+  "mod_version": "v1.4.1.9",
+  "mc_version": "1.7.10",
+  "mod_authors": ["ChickenBones"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956",
+  "description": "Various wireless gadgets to play with!"
+}

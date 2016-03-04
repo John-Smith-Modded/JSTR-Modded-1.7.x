@@ -1,0 +1,10 @@
+{
+  "mod_id": "ExtraUtilities",
+  "mod_name": "Extra Utilities",
+  "mod_dir": "/Extra_Utilities/",
+  "mod_version": "v1.2.11",
+  "mc_version": "1.7.10",
+  "mod_authors": ["RWTema"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0k",
+  "description": "Just a bunch of fairly useful things."
+}

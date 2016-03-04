@@ -1,0 +1,10 @@
+{
+  "mod_id": "chisel",
+  "mod_name": "Chisel 2",
+  "mod_dir": "/Chisel_2/",
+  "mod_version": "v2.5.1",
+  "mc_version": "1.7.10",
+  "mod_authors": ["AUTOMATIC_MAIDEN", "Pokefenn", "Cricket", "tterrag1098"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/225236-chisel-2",
+  "description": "A mod that adds in many fancy blocks for decoration, which are crafted utilising the Chisel."
+}

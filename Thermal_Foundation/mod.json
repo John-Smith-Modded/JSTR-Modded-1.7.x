@@ -1,0 +1,10 @@
+{
+  "mod_id": "ThermalFoundation",
+  "mod_name": "Thermal Foundation",
+  "mod_dir": "/Thermal_Foundation/",
+  "mod_version": "v1.2.0-102",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Team CoFH"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/222880",
+  "description": "The foundation of a Thermally enhanced world!!"
+}

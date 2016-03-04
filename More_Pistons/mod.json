@@ -1,0 +1,10 @@
+{
+  "mod_id": "MorePistons",
+  "mod_name": "More Pistons",
+  "mod_dir": "/More_Pistons/",
+  "mod_version": "v2.0.0",
+  "mc_version": "1.7.10",
+  "mod_authors": ["SmeagolWorms4, MontyPylon"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288960-more-pistons-1-5-0-build-by-smeagol",
+  "description": "Add new pistons."
+}

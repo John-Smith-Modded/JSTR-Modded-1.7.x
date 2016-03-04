@@ -1,0 +1,10 @@
+{
+  "mod_id": "autopackager",
+  "mod_name": "Auto Packager",
+  "mod_dir": "/Auto_Packager/",
+  "mod_version": "v1.5.3",
+  "mc_version": "1.7.10",
+  "mod_authors": ["smbarbour"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/221457-autopackager",
+  "description": "Auto-craft recipes made of a single item type."
+}

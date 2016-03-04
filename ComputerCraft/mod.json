@@ -1,0 +1,10 @@
+{
+  "mod_id": "ComputerCraft",
+  "mod_name": "ComputerCraft",
+  "mod_dir": "/ComputerCraft/",
+  "mod_version": "v1.65",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Daniel Ratcliffe", "Aaron Mills"],
+  "url_website": "http://www.computercraft.info/",
+  "description": "ComputerCraft adds Computers, Programming and Robotics to Minecraft."
+}

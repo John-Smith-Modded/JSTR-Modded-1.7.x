@@ -1,0 +1,10 @@
+{
+  "mod_id": "Morph",
+  "mod_name": "Morph",
+  "mod_dir": "/Morph/",
+  "mod_version": "v0.9.1",
+  "mc_version": "1.7.10",
+  "mod_authors": ["iChun"],
+  "url_website": "http://ichun.us/mods/morph/",
+  "description": "This mod allows you to kill other entities and take their form."
+}

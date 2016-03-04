@@ -1,0 +1,10 @@
+{
+  "mod_id": "MineFactoryReloaded",
+  "mod_name": "MineFactory Reloaded",
+  "mod_dir": "/Minefactory_Reloaded/",
+  "mod_version": "v2.8.0RC6-22",
+  "mc_version": "1.7.10",
+  "mod_authors": ["PowerCrystals", "TehKrush", "AtomicStryker", "Feanorith", "skyboy026"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/",
+  "description": "Automate everything!"
+}

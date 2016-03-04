@@ -1,0 +1,10 @@
+{
+  "mod_id": "BiomesOPlenty",
+  "mod_name": "Biomes O Plenty",
+  "mod_dir": "/Biomes_O_Plenty/",
+  "mod_version": "v2.1.0",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Adubbz", "Amnet", "Forstride", "ted80"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286162-biomes-o-plenty-over-75-new-biomes-plants-and-more",
+  "description": "Adds over 75 new biomes, blocks, and more!"
+}

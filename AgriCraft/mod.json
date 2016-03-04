@@ -1,0 +1,10 @@
+{
+  "mod_id": "AgriCraft",
+  "mod_name": "AgriCraft",
+  "mod_dir": "/AgriCraft/",
+  "mod_version": "v1.3.1",
+  "mc_version": "1.7.10",
+  "mod_authors": ["InfinityRaider"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/225635-agricraft",
+  "description": "Agricultural farming extended."
+}

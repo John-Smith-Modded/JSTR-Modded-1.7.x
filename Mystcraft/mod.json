@@ -1,0 +1,10 @@
+{
+  "mod_id": "Mystcraft",
+  "mod_name": "Mystcraft",
+  "mod_dir": "/Mystcraft/",
+  "mod_version": "v0.11.0.00",
+  "mc_version": "1.7.10",
+  "mod_authors": ["XCompWiz"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280070-mystcraft-0-11-0",
+  "description": "Mystcraft brings elements from the Myst series of games and books to Minecraft, as well as allowing players to actually write and travel to their own Ages."
+}

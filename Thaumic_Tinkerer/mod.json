@@ -1,0 +1,10 @@
+{
+  "mod_id": "ThaumicTinkerer",
+  "mod_name": "Thaumic Tinkerer",
+  "mod_dir": "/Thaumic_Tinkerer/",
+  "mod_version": "v2.5",
+  "mc_version": "1.7.10",
+  "mod_authors": ["pixlepix", "nekosune"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289299",
+  "description": "An add-on to Thaumcraft 4, implementing new content. This mod is a spiritual successor to Elemental Tinkerer."
+}

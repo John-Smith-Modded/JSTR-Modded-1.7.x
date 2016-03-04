@@ -1,0 +1,10 @@
+{
+  "mod_id": "MultiPageChest",
+  "mod_name": "Multi Page Chest",
+  "mod_dir": "/Multi_Page_Chest/",
+  "mod_version": "v1.3.1",
+  "mc_version": "1.7.10",
+  "mod_authors": ["CubeX2"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1275500-cubex2s-mods-all-mods-available-for-1-7-10",
+  "description": "New chest with 5 pages."
+}

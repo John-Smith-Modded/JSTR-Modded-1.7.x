@@ -1,0 +1,10 @@
+{
+  "mod_id": "EnderStorage",
+  "mod_name": "Ender Storage",
+  "mod_dir": "/Ender_Storage/",
+  "mod_version": "v1.4.5.27",
+  "mc_version": "1.7.10",
+  "mod_authors": ["chicken_bones"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods",
+  "description": "Stores your stuff in the END!"
+}

@@ -1,0 +1,10 @@
+{
+  "mod_id": "magicalcrops",
+  "mod_name": "Magical Crops",
+  "mod_dir": "/Magical_Crops/",
+  "mod_version": "v4.0.0_BETA",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Mark719"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287451-magical-crops-farm-your-resources-3-2-0-now-with",
+  "description": "A Magical farming mod that allows you to grow and harvest all type of Minecraft resources, and make many magical items and armours."
+}

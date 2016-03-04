@@ -1,0 +1,10 @@
+{
+  "mod_id": "Steamcraft",
+  "mod_name": "Flaxbeards SteamCraft",
+  "mod_dir": "/Flaxbeards_SteamCraft/",
+  "mod_version": "v0.27.0-beta",
+  "mc_version": "1.7.10",
+  "mod_authors": ["SatanicSanta"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2246930-flaxbeards-steam-power-beta-0-27-0-updated-nov-10",
+  "description": "A mod based around steam power and steam-punk tech."
+}

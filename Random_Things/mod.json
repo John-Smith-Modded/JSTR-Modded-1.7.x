@@ -1,0 +1,10 @@
+{
+  "mod_id": "RandomThings",
+  "mod_name": "Random Things",
+  "mod_dir": "/Random_Things/",
+  "mod_version": "v2.2.3",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Lumien"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/59816-random-things/",
+  "description": "Random Things packed into one Mod."
+}

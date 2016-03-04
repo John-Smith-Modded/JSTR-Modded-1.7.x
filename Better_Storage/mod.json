@@ -1,0 +1,10 @@
+{
+  "mod_id": "betterstorage",
+  "mod_name": "Better Storage",
+  "mod_dir": "/Better_Storage/",
+  "mod_version": "v0.11.2.122",
+  "mc_version": "1.7.10",
+  "mod_authors": ["copygirl", "Vic Nightfall"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1442380-betterstorage-0-10-5-119-wip",
+  "description": "Adds more storage related blocks and items to the game."
+}

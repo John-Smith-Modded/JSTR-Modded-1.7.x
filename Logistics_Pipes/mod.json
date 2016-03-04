@@ -1,0 +1,10 @@
+{
+  "mod_id": "LogisticsPipes",
+  "mod_name": "Logistics Pipes",
+  "mod_dir": "/Logistics_Pipes/",
+  "mod_version": "0.9.2.20",
+  "mc_version": "1.7.10",
+  "mod_authors": ["RS485", "davboecki", "theZorro266"],
+  "url_website": "http://rs485.network",
+  "description": "A overhaul of Buildcraft's pipes system."
+}

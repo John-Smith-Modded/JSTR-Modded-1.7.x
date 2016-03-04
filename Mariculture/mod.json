@@ -1,0 +1,10 @@
+{
+  "mod_id": "Mariculture",
+  "mod_name": "Mariculture",
+  "mod_dir": "/Mariculture/",
+  "mod_version": "v1.2.4.1",
+  "mc_version": "1.7.10",
+  "mod_authors": ["joshie"],
+  "url_website": "http://mariculture.wikispaces.com/",
+  "description": "Maritime Complex ~ Adds expanded fishing, new fish, oceans to explore, machines to assist, sea magic and more."
+}

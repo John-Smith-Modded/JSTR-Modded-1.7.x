@@ -1,0 +1,10 @@
+{
+  "mod_id": "luckyblock",
+  "mod_name": "Lucky Block",
+  "mod_dir": "/Lucky_Block/",
+  "mod_version": "v5.1.0",
+  "mc_version": "1.7.10",
+  "mod_authors": ["PlayerInDistress"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292247-lucky-block-drops-items-spawns-mobs-structures-and",
+  "description": "The Lucky Block mod adds just one block, yet over one hundred possibilities to Minecraft!"
+}

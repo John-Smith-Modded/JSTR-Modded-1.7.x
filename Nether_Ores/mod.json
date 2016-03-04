@@ -1,0 +1,10 @@
+{
+  "mod_id": "NetherOres",
+  "mod_name": "Nether Ores",
+  "mod_dir": "/Nether_Ores/",
+  "mod_version": "v2.3.0RC4-7",
+  "mc_version": "1.7.10",
+  "mod_authors": ["PowerCrystals", "TehKrush", "AtomicStryker", "skyboy026"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/netherores/",
+  "description": "Introduces mine-able yet dangerous ores to the Nether."
+}

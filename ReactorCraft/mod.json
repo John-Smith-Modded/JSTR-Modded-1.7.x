@@ -1,0 +1,10 @@
+{
+  "mod_id": "ReactorCraft",
+  "mod_name": "ReactorCraft",
+  "mod_dir": "/ReactorCraft/",
+  "mod_version": "Unknown",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Reika"],
+  "url_website": "https://sites.google.com/site/reikasminecraft/reactorcraft/",
+  "description": "ReactorCraft is a mod that adds realistic nuclear reactors, both fission and fusion, to Minecraft."
+}
