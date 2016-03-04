@@ -1,0 +1,10 @@
+{
+  "mod_id": "Automagy",
+  "mod_name": "Automagy",
+  "mod_dir": "/Automagy/",
+  "mod_version": "v0.27",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Tuhljin", "Draanor"],
+  "url_website": "http://minecraft.curseforge.com/projects/automagy",
+  "description": "An addon for Thaumcraft 4 focused on providing flexible and interesting tools for automation and logistics, plus a few other fun thaumic gadgets."
+}

@@ -1,0 +1,10 @@
+{
+  "mod_id": "woodstuff",
+  "mod_name": "Wood Stuff",
+  "mod_dir": "/Wood_Stuff/",
+  "mod_version": "v1.3.2",
+  "mc_version": "1.7.10",
+  "mod_authors": ["ganymedes01"],
+  "url_website": "http://minecraft.curseforge.com/projects/wood-stuff",
+  "description": "Adds a lot of wood stuff!"
+}

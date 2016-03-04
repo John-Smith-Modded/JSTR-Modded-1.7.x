@@ -1,0 +1,10 @@
+{
+  "mod_id": "advgenerators",
+  "mod_name": "Advanced Generators",
+  "mod_dir": "/Advanced_Generators/",
+  "mod_version": "v0.9.14.89",
+  "mc_version": "1.7.10",
+  "mod_authors": ["bdew"],
+  "url_website": "http://bdew.net/",
+  "description": ""
+}

@@ -1,0 +1,10 @@
+{
+  "mod_id": "babyanimals",
+  "mod_name": "Baby Animals Model Swapper",
+  "mod_dir": "/Baby_Animals_Model_Swapper/",
+  "mod_version": "v1.7.10-2",
+  "mc_version": "1.7.10",
+  "mod_authors": ["MrIbby", "cocoavalley"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/2364027",
+  "description": "Replaces vanilla baby models with models created for the original Baby Animals Mod."
+}
