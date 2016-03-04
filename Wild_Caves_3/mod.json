@@ -1,0 +1,10 @@
+{
+  "mod_id": "wildcaves3",
+  "mod_name": "Wild Caves 3",
+  "mod_dir": "/Wild_Caves_3/",
+  "mod_version": "v0.4.3.7",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Alexmania"],
+  "url_website": "http://www.minecraftforum.net/topic/1554854-146forge-wildcaves-3-v032",
+  "description": "This mod gives some much needed love to vanilla caves, adds stalactites, stalagmites, vines, glowing mushrooms and icicles."
+}

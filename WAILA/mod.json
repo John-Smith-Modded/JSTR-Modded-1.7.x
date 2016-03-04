@@ -1,0 +1,10 @@
+{
+  “mod_id”: “waila”,
+  “mod_name”: “WAILA”,
+  “mod_dir”: “/WAILA/“,
+  “mod_version”: “v1.5.10”,
+  “mc_version”: “1.7.10”,
+  “mod_authors”: [“ProfMobius”],
+  “url_website”: “http://mods.curse.com/mc-mods/minecraft/waila”,
+  “description”: “A UI improvement mod aimed at providing block information directly ingame.”
+}

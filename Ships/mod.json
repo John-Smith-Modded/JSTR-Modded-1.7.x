@@ -1,0 +1,10 @@
+{
+  "mod_id": "ships",
+  "mod_name": "Ships",
+  "mod_dir": "/Ships/",
+  "mod_version": "v1.0.4",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Cuchaz"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/226731-ships-mod",
+  "description": "Lets you build a ship out of blocks and sail it around the Minecraft world!"
+}

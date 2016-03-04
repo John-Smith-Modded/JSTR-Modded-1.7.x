@@ -1,0 +1,10 @@
+{
+  "mod_id": "StevesWorkshop”,
+  "mod_name": "Steves Workshop",
+  "mod_dir": "/Steves_Workshop/",
+  "mod_version": "v0.5.1",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Vswe"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/223173-steves-workshop",
+  "description": "Adds a modular production table for crafting and smelting"
+}

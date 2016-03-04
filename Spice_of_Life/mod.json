@@ -1,0 +1,10 @@
+{
+  "mod_id": “SpiceOfLife”,
+  "mod_name": "The Spice of Life",
+  "mod_dir": "/Spice_of_Life/",
+  "mod_version": "v1.3.0”,
+  "mc_version": "1.7.10",
+  "mod_authors": ["squeek"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/220811-the-spice-of-life",
+  "description": "Encourages dietary variety through diminishing returns."
+}

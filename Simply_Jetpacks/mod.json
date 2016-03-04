@@ -1,0 +1,10 @@
+{
+  "mod_id": “simplyjetpacks”,
+  "mod_name": "Simply Jetpack",
+  "mod_dir": "/Simply_Jetpack/",
+  "mod_version": "v1.5.3”,
+  "mc_version": "1.7.10",
+  "mod_authors": [“tonius11”],
+  "url_website": "http://www.curse.com/mc-mods/minecraft/simply-jetpacks",
+  "description": "Redstone Flux jetpacks and more."
+}

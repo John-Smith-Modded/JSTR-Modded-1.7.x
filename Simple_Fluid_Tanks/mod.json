@@ -1,0 +1,10 @@
+{
+  "mod_id": "simplefluidtanks",
+  "mod_name": "Simple Fluid Tanks",
+  "mod_dir": "/Simple_Fluid_Tanks/",
+  "mod_version": "v1.2.0.5",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Zarathul"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/simplefluidtanks",
+  "description": "Adds fluid tanks of variable size and shape."
+}

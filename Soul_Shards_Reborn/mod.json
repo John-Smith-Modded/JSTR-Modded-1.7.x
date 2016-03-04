@@ -1,0 +1,10 @@
+{
+  "mod_id": “SSR”,
+  "mod_name": "Soul Shards Reborn",
+  "mod_dir": "/Soul_Shards_Reborn/",
+  "mod_version": "rc3",
+  "mc_version": "1.7.10",
+  "mod_authors": [“Moze_Intel”],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445947-1-7-10-soul-shards-reborn-original-soul-shards",
+  "description": "Complete remake of the old Soul Shards."
+}
