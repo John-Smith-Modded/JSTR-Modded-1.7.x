@@ -1,0 +1,10 @@
+{
+  "mod_id": "eirairc",
+  "mod_name": "EiraIRC",
+  "mod_dir": "/EiraIRC/",
+  "mod_version": "v1.6.4",
+  "mc_version": "1.7.2",
+  "mod_authors": ["blay09"],
+  "url_website": "http://blay09.net",
+  "description": "An IRC Connector that works both on clients and servers independently, with some community-friendly extra features."
+}

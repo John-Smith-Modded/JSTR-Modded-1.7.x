@@ -1,0 +1,10 @@
+{
+  "mod_id": "chococraft",
+  "mod_name": "Clienthax's ChocoCraft",
+  "mod_dir": "/ChocoCraft/",
+  "mod_version": "v4.1.4",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Torojima", "Micdoodle"],
+  "url_website": "http://www.minecraftforum.net/topic/1119809-",
+  "description": "Adds a mountable, breedable mob and supporting items."
+}

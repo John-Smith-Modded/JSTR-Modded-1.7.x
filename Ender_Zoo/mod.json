@@ -1,0 +1,10 @@
+{
+  "mod_id": "EnderZoo",
+  "mod_name": "Ender Zoo",
+  "mod_dir": "/Ender_Zoo/",
+  "mod_version": "v1.0.9.18",
+  "mc_version": "1.7.10",
+  "mod_authors": ["crazypants"],
+  "url_website": "http://enderio.com",
+  "description": "More Mobs"
+}
