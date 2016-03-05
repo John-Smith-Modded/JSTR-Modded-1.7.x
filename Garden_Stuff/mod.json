@@ -1,0 +1,10 @@
+{
+  "mod_id": "GardenStuff",
+  "mod_name": "Garden Stuff",
+  "mod_dir": "/Garden_Stuff/",
+  "mod_version": "1.7.0",
+  "mc_version": "1.7.10",
+  "mod_authors": ["jaquadro"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/225903-garden-stuff",
+  "description": "Decorative blocks and miscellaneous things for gardens and more."
+}

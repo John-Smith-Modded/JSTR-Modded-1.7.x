@@ -1,0 +1,10 @@
+{
+  "mod_id": “Growthcraft”,
+  "mod_name": "Growthcraft“,
+  "mod_dir": "/Growthcraft/",
+  "mod_version": "v2.4.0”,
+  "mc_version": "1.7.10",
+  "mod_authors": [“Gwafu”],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/235092-growthcraft-community-edition",
+  "description": “A mod that aims to improve the agricultural and farming aspects of the game.”
+}

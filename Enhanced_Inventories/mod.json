@@ -1,0 +1,10 @@
+{
+  "mod_id": "EnhancedInventories",
+  "mod_name": "Enhanced Inventories",
+  "mod_dir": "/Enhanced_Inventories/",
+  "mod_version": "v1.0.13”,
+  "mc_version": "1.7.10",
+  "mod_authors": ["Yuuto"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/226210-enhanced-inventories",
+  "description": "Enhancing your inventories!"
+}
