@@ -1,0 +1,10 @@
+{
+  "mod_id": "CompactWindmills",
+  "mod_name": "Compact Windmills",
+  "mod_dir": "/Compact_Windmills/",
+  "mod_version": "v1.0.3.1",
+  "mc_version": "1.7.2",
+  "mod_authors": ["Aroma1997", "Schillaa"],
+  "url_website": "https://github.com/Aroma1997/CompactWindmills",
+  "description": "This mod/addon for IndustrialCraft2 adds CompactWindmills to the game. They are basically More Windmills within one Block: Availible in ELV(8EU/t), LV(32EU/t), MV(128EU/t), HV(512EU/t) and EV(2048EU/t). They save CPU if used in big power plants."
+}
