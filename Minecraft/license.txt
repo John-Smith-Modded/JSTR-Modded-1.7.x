@@ -1,0 +1,18 @@
+John Smith Technician's Remix (JSTR) is a community pack built on top of the original John Smith Legacy pack.
+Bear in mind, that a whole community work is involved in this project and these rules are to protect such work.
+As such, we have rules that as a user, you must agree to comply with when using our work.
+You can find these rules below:
+
+1. No money can be made from distribution of the pack and individual textures.
+2. Public redistribution of JSTR pack outside the root domains is strictly prohibited. Allowed domains are:
+   - http://www.johnsmithlegacy.co.uk/
+   - http://js-legacy.net/
+   - https://github.com/John-Smith-Modded
+3. Public redistribution of JSTR from third party websites and platforms is strictly prohibited.
+4. Contributors retain all copyright over their textures and are free to use their work elsewhere.
+5. The hosting public mixpacks is discourage, please provide a patch that is layered on top of the default download.
+6. Third party projects; meaning non-related minecraft resourcepack projects, using our textures are not allowed.
+6. The JSTR community retains the right to redistribute any texture submitted and have the ability to grant or deny permission for requests on distribution.
+
+This license solely applies to John Smith Technician's Remix.
+© 2012-2015 John Smith Technician's Remix Community. All rights reserved.

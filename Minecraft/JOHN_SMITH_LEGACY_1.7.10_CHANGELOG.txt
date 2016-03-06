@@ -1,0 +1,1664 @@
+====================================================================================================
+
+John Smith Legacy - Resource Pack Changelog
+
+http://www.johnsmithlegacy.co.uk/
+
+NOTE:- This Resource Pack is for Minecraft 1.7.10 or greater, requires mcpatcher to get the best
+       out of it and has limited support for Optifine.
+
+====================================================================================================
+
+-{1.2.24}- 26th December 2015 - 1.7.10--------------------------------------------------------------
+
+JimStoneCraft
+<UPDATED>
+                textures/entity/witch.png
+                textures/entity/villager/butcher.png
+                textures/entity/villager/farmer.png
+                textures/entity/villager/librarian.png
+                textures/entity/villager/priest.png
+                textures/entity/villager/smith.png
+                textures/entity/villager/villager.png
+                textures/items/spawn_egg.png
+
+All the Villagers and a Witch.
+
+Spawn Egg was 1px out of position.
+
+
+
+-{1.2.23}- 13th November 2015 - 1.7.10--------------------------------------------------------------
+
+JimStoneCraft
+<ADDED or UPDATED>
+                font/glyph_sizes.bin
+                textures/blocks/alternates/smooth_blocks
+                textures/blocks/alternates/smooth_blocks/emerald_ore.png
+                textures/blocks/alternates/smooth_blocks/gold_ore.png
+                textures/blocks/alternates/smooth_blocks/iron_ore.png
+                textures/blocks/alternates/smooth_blocks/lapis_ore.png
+                textures/blocks/anvil_top_damaged_0.png
+                textures/blocks/anvil_top_damaged_1.png
+                textures/blocks/anvil_top_damaged_2.png
+                textures/blocks/brick.png
+                textures/blocks/cauldron_bottom.png
+                textures/blocks/cauldron_inner.png
+                textures/blocks/cauldron_side.png
+                textures/blocks/cauldron_top.png
+                textures/blocks/coal_ore.png
+                textures/blocks/cobblestone.png
+                textures/blocks/command_block.png
+                textures/blocks/command_block.png.mcmeta
+                textures/blocks/daylight_detector_side.png
+                textures/blocks/deadbush.png
+                textures/blocks/door_iron_lower.png
+                textures/blocks/door_iron_upper.png
+                textures/blocks/double_plant_grass_bottom.png
+                textures/blocks/double_plant_grass_top.png
+                textures/blocks/emerald_ore.png
+                textures/blocks/emerald_ore.png.mcmeta
+                textures/blocks/end_stone.png
+                textures/blocks/endframe_side.png
+                textures/blocks/endframe_top.png
+                textures/blocks/fern.png
+                textures/blocks/flower_dandelion.png
+                textures/blocks/flower_pot.png
+                textures/blocks/gold_ore.png
+                textures/blocks/hopper_top.png
+                textures/blocks/jukebox_side.png
+                textures/blocks/jukebox_top.png
+                textures/blocks/lapis_ore.png
+                textures/blocks/lapis_ore.png.mcmeta
+                textures/blocks/netherrack.png
+                textures/blocks/noteblock.png
+                textures/blocks/planks_acacia.png
+                textures/blocks/planks_oak.png
+                textures/blocks/red_sand.png
+                textures/blocks/redstone_ore.png
+                textures/blocks/redstone_ore.png.mcmeta
+                textures/blocks/sand.png
+                textures/blocks/sandstone_carved.png
+                textures/blocks/sandstone_normal.png
+                textures/blocks/sandstone_smooth.png
+                textures/blocks/sandstone_top.png
+                textures/blocks/sapling_spruce.png
+                textures/blocks/sponge.png
+                textures/blocks/stonebrick.png
+                textures/blocks/stonebrick_carved.png
+                textures/blocks/stonebrick_cracked.png
+                textures/blocks/tallgrass.png
+                textures/blocks/trip_wire.png
+                textures/blocks/trip_wire_source.png
+                textures/blocks/trip_wire_wood.png
+                textures/blocks/vine.png
+                textures/blocks/wooden_pressure_plate.png
+                textures/entity/endercrystal
+                textures/entity/endercrystal/endercrystal.png
+                textures/entity/endercrystal/endercrystal_beam.png
+                textures/entity/horse/horse_skeleton.png
+                textures/entity/slime/slime.png
+                textures/entity/wither/wither.png
+                textures/entity/zombie/zombie_villager.png
+                textures/entity/explosion.png
+                textures/font/ascii.png
+                textures/font/ascii_sga.png
+                textures/font/unicode_page_00.png
+                textures/font/unicode_page_01.png
+                textures/gui/container/anvil.png
+                textures/gui/container/beacon.png
+                textures/gui/container/brewing_stand.png
+                textures/gui/container/crafting_table.png
+                textures/gui/container/dispenser.png
+                textures/gui/container/enchanting_table.png
+                textures/gui/container/furnace.png
+                textures/gui/container/hopper.png
+                textures/gui/container/horse.png
+                textures/gui/container/inventory.png
+                textures/gui/container/stats_icons.png
+                textures/gui/container/villager.png
+                textures/gui/title/minecraft.png
+                textures/items/apple_golden.png
+                textures/items/blaze_powder.png
+                textures/items/bow_pulling_0.png
+                textures/items/bow_pulling_1.png
+                textures/items/bow_pulling_2.png
+                textures/items/bow_standby.png
+                textures/items/bucket_empty.png
+                textures/items/bucket_lava.png
+                textures/items/bucket_lava.png.mcmeta
+                textures/items/bucket_water.png
+                textures/items/bucket_water.png.mcmeta
+                textures/items/carrot_on_a_stick.png
+                textures/items/cauldron.png
+                textures/items/charcoal.png
+                textures/items/coal.png
+                textures/items/door_iron.png
+                textures/items/door_wood.png
+                textures/items/dye_powder_black.png
+                textures/items/egg.png
+                textures/items/emerald.png
+                textures/items/emerald.png.mcmeta
+                textures/items/fireball.png
+                textures/items/fireworks_charge.png
+                textures/items/fireworks_charge_overlay.png
+                textures/items/fish_clownfish_raw.png
+                textures/items/fish_pufferfish_raw.png
+                textures/items/flower_pot.png
+                textures/items/ghast_tear.png
+                textures/items/gold_ingot.png
+                textures/items/iron_ingot.png
+                textures/items/item_frame.png
+                textures/items/leather_boots.png
+                textures/items/leather_helmet.png
+                textures/items/leather_leggings.png
+                textures/items/minecart_chest.png
+                textures/items/minecart_furnace.png
+                textures/items/minecart_hopper.png
+                textures/items/minecart_normal.png
+                textures/items/minecart_tnt.png
+                textures/items/potion_bottle_splash.png
+                textures/items/pumpkin_pie.png
+                textures/items/quiver.png
+                textures/items/reeds.png
+                textures/items/seeds_wheat.png
+                textures/items/shears.png
+                textures/items/sign.png
+                textures/items/spawn_egg.png
+                textures/items/spider_eye_fermented.png
+                textures/items/stick.png
+                textures/items/stone_hoe.png
+                textures/items/wood_hoe.png
+                textures/items/wood_shovel.png
+
+Large backdate update, all the things that have changed in the later version of the pack.
+
+The most important are the font files as this fixes a long term issue with some books in the modded
+game (Thaumonomicon, Lexica Botania and others).
+
+glyph_sizes.bin, ascii.png, ascii_sga.png, unicode_page_00.png, unicode_page_01.png
+
+
+
+-{1.2.22}- 30th August 2015 - 1.7.10----------------------------------------------------------------
+
+JimStoneCraft
+<ADDED>
+                sounds/random/levelup.ogg
+                textures/entity/horse/donkey.png
+                textures/entity/horse/horse_black.png
+                textures/entity/horse/horse_brown.png
+                textures/entity/horse/horse_chestnut.png
+                textures/entity/horse/horse_creamy.png
+                textures/entity/horse/horse_darkbrown.png
+                textures/entity/horse/horse_gray.png
+                textures/entity/horse/horse_markings_blackdots.png
+                textures/entity/horse/horse_markings_white.png
+                textures/entity/horse/horse_markings_whitedots.png
+                textures/entity/horse/horse_markings_whitefield.png
+                textures/entity/horse/horse_skeleton.png
+                textures/entity/horse/horse_white.png
+                textures/entity/horse/horse_zombie.png
+                textures/entity/horse/mule.png
+                textures/slime/magmacube.png
+
+Older better sounding level up sound.
+
+Horse and Magmacube.
+
+JimStoneCraft
+<UPDATED>
+                pack.mcmeta
+                mcpatcher/ctm/wooden_button/wooden_button.png
+                mcpatcher/ctm/wooden_button/stone_button.png
+                textures/entity/chest/christmas.png
+                textures/entity/chest/christmas_double.png
+                textures/entity/chest/normal.png
+                textures/entity/chest/normal_double.png
+                textures/entity/chest/trapped.png
+                textures/entity/chest/trapped_double.png
+                textures/creeper/creeper.png
+                textures/enderman/enderman.png
+                textures/ghast/ghast.png
+                textures/ghast/ghast_shooting.png
+                textures/environment/end_sky.png
+                textures/environment/snow.png
+                misc/shadow.png
+                models/armor/chainmail_layer_1.png
+                models/armor/chainmail_layer_2.png
+                models/armor/diamond_layer_1.png
+                models/armor/diamond_layer_2.png
+                models/armor/gold_layer_1.png
+                models/armor/gold_layer_2.png
+                models/armor/iron_layer_1.png
+                models/armor/iron_layer_2.png
+                models/armor/leather_layer_1.png
+                models/armor/leather_layer_1_overlay.png
+                models/armor/leather_layer_2.png
+                models/armor/leather_layer_2_overlay.png
+                painting/paintings_kristoffer_zetterstrand.png
+
+All textures backdated from the newer releases of the Resource Packs.
+
+
+
+-{1.0.21}- 2nd August 2014 - 1.7.10-----------------------------------------------------------------
+
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] textures/particles/particles.png
+                textures/blocks/lava_flow.png.mcmeta
+                textures/blocks/lava_still.png.mcmeta
+                textures/blocks/portal.png.mcmeta
+                textures/blocks/water_still.png.mcmeta
+                textures/blocks/water_flow.png.mcmeta
+
+Added ("interpolate": true,) to the lava, water and portal animations to make them animate smoother.
+
+It would seem that you cannot have transparent pixels for the water splash particle so it's now
+solid light blue, thanks to Edelan7 for the bug report.
+
+
+
+-{1.0.20}- 26th June 2014 - 1.7.10------------------------------------------------------------------
+
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] textures/misc/enchanted_item_glint.png
+                textures/items/*.*
+
+Reverted the Enchant glint to the vanilla glint as this shows the potion colours better.
+
+Realigned all the item textures to be in the middle or 1 pixel up and 1 pixel to the left if it's
+an odd number.
+
+JimStoneCraft
+<REMOVED>
+                textures/items/horsesaddle.png
+                textures/gui/title/realms.png
+                textures/gui/realms/cross_icon.png
+                textures/gui/realms/expired_icon.png
+                textures/gui/realms/invitation_icons.png
+                textures/gui/realms/invite_icon.png
+                textures/gui/realms/off_icon.png
+                textures/gui/realms/on_icon.png
+                textures/gui/realms/op_icon.png
+                textures/gui/realms/plus_icon.png
+                textures/gui/realms/restore_icon.png
+                textures/gui/realms/toggle_off_icon.png
+                textures/gui/realms/toggle_on_icon.png
+                textures/gui/realms/user_icon.png
+                textures/gui/realms/world_icon.png
+
+Removed the horsesaddle as it's no longer required.
+
+Removed all the Realms textures as they are no longer part of the vanilla resource pack.
+
+
+
+-{1.2.19}- 8th June 2014 - 1.7.10-------------------------------------------------------------------
+
+JimStoneCraft
+<ADDED>
+[JimStoneCraft] textures/misc/unknown_pack.png
+                textures/gui/title/realms.png
+                textures/gui/realms/cross_icon.png
+                textures/gui/realms/expired_icon.png
+                textures/gui/realms/invitation_icons.png
+                textures/gui/realms/invite_icon.png
+                textures/gui/realms/off_icon.png
+                textures/gui/realms/on_icon.png
+                textures/gui/realms/op_icon.png
+                textures/gui/realms/plus_icon.png
+                textures/gui/realms/restore_icon.png
+                textures/gui/realms/toggle_off_icon.png
+                textures/gui/realms/toggle_on_icon.png
+                textures/gui/realms/user_icon.png
+                textures/gui/realms/world_icon.png
+
+Unknown pack texture added.
+
+Separated the Minecraft Realms logo.
+
+All the Realms controls now have their own images.
+
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] mcpatcher/ctm/dirt_podzol/0-2.png
+                mcpatcher/ctm/dirt_podzol/podzol.properties
+                textures/gui/title/minecraft.png
+                textures/gui/widgets.png
+
+Renamed podzol to dirt_podzol and added one extra Podzol to the CTM.
+
+Removed the Minecraft Realms logo from the minecraft.png image and also removed all the extras from
+the Widgets image as they are now separate files.
+
+
+
+-{1.2.18}- 23rd May 2014 - 1.7.9--------------------------------------------------------------------
+
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] textures/particle/particle.png
+                textures/blocks/fire_layer_0.png
+                textures/blocks/fire_layer_1.png
+                textures/blocks/torch_on.png
+
+New flame effect when using a furnace or a torch in the same style as the fire layer, the smoke and
+flames are now 60% transparent.
+
+Adjusted the potion swirls to make them thinner and more round, arrow firing also made thinner, both
+are now 40% tranparent to make them less intrusive.
+
+Water bubble and rain bounce drops also 40% tranparent.
+
+Partially transparent pixels cannot be on the fire layer or torch blocks, pixels with 50% or less
+transparency are just removed by Minecraft and pixels with 51% or more transparency are just made
+solid, so I cleaned up the textures as they had transparent pixels that didn't show up anyway.
+
+
+
+-{1.2.17}- 13th May 2014 - 1.7.9--------------------------------------------------------------------
+
+JimStoneCraft
+<ADDED>
+[JimStoneCraft] mcpatcher/ctm/stone_slab/side.png
+                mcpatcher/ctm/stone_slab/stone_slab_sides.properties
+                mcpatcher/ctm/stone_slab/stone_slab_top_bottom.properties
+                mcpatcher/ctm/leaves_acacia/0-3.png
+                mcpatcher/ctm/leaves_acacia/leaves_acacia.properties
+                mcpatcher/ctm/leaves_big_oak/0-3.png
+                mcpatcher/ctm/leaves_big_oak/leaves_big_oak.properties
+                mcpatcher/ctm/leaves_birch/3.png
+                mcpatcher/ctm/leaves_jungle/0-3.png
+                mcpatcher/ctm/leaves_jungle/leaves_jungle.properties
+                mcpatcher/ctm/leaves_oak/3.png
+                mcpatcher/ctm/leaves_spruce/0-3.png
+                mcpatcher/ctm/leaves_spruce/leaves_spruce.properties
+
+Added sides to the Stone Slabs rather than using the top texture for the sides.
+
+Random CTM for the other four types of leaves, also added one extra leaf block to Oak and Birch to
+match the other leaves.
+
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] mcpatcher/ctm/nether_brick_fence/1.png
+                mcpatcher/ctm/nether_brick_fence/2.png
+                mcpatcher/ctm/nether_brick_fence/3.png
+                mcpatcher/ctm/nether_brick_fence/4.png
+                mcpatcher/ctm/wooden_fence/1.png
+                mcpatcher/ctm/wooden_fence/2.png
+                mcpatcher/ctm/wooden_fence/3.png
+                mcpatcher/ctm/wooden_fence/4.png
+                mcpatcher/ctm/leaves_acacia/0-3.png
+                mcpatcher/ctm/leaves_acacia/leaves_acacia.properties
+                mcpatcher/ctm/leaves_big_oak/0-3.png
+                mcpatcher/ctm/leaves_big_oak/leaves_big_oak.properties
+                mcpatcher/ctm/leaves_birch/0-2.png
+                mcpatcher/ctm/leaves_birch/leaves_birch.properties
+                mcpatcher/ctm/leaves_jungle/0-3.png
+                mcpatcher/ctm/leaves_jungle/leaves_jungle.properties
+                mcpatcher/ctm/leaves_oak/0-2.png
+                mcpatcher/ctm/leaves_oak/leaves_oak.properties
+                mcpatcher/ctm/leaves_spruce/0-3.png
+                mcpatcher/ctm/leaves_spruce/leaves_spruce.properties
+                textures/blocks/leaves_acacia.png
+                textures/blocks/leaves_acacia_opaque.png
+                textures/blocks/leaves_big_oak.png
+                textures/blocks/leaves_big_oak_opaque.png
+                textures/blocks/leaves_birch.png
+                textures/blocks/leaves_birch_opaque.png
+                textures/blocks/leaves_jungle.png
+                textures/blocks/leaves_jungle_opaque.png
+                textures/blocks/leaves_oak.png
+                textures/blocks/leaves_oak_opaque.png
+                textures/blocks/leaves_spruce.png
+                textures/blocks/leaves_spruce_opaque.png
+                textures/entity/steve.png
+
+The middle of both sets of fences were nine pixels when it should have been only eight pixel wide.
+
+Redone the all the leaves and also changed the background colours on the opaque leaves to match the
+leaf colours.
+
+Changed Steve back to the older texture but still with the new neck and body.
+
+Updated Steve with a new bottom of the body and the neck (Thanks Brolok for pointing this out).
+
+JimStoneCraft
+<REMOVED>
+[JimStoneCraft] mcpatcher/ctm/stone_slab/stone_slab.properties
+
+
+
+-{1.2.16}- 24th April 2014 - 1.7.9------------------------------------------------------------------
+
+JimStoneCraft
+<ADDED>
+[JimStoneCraft] textures/blocks/alternates/jstr/
+                mcpatcher/ctm/cobblestone/cobblestone_double_slab_top_bottom.properties
+
+Maintaining the JSTR base pack makes little sense when it's almost the same as the Legacy pack,
+it's just more uneeded work, so I've compaired the two packs and these are all the blocks that are
+different in the JSTR.
+
+My plan for the JSTR pack is to have the Legacy pack as the base then add the the extra mod
+textures.
+
+Added Double Cobblestone CTM to match the Cobblestone Slab.
+
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] textures/blocks/coal_block.png
+                textures/blocks/mushroom_brown.png
+                textures/blocks/mushroom_red.png
+                textures/items/iron_sword.png
+                mcpatcher/ctm/cobblestone/cobblestone_sides.properties
+                mcpatcher/ctm/cobblestone/cobblestone_slab_top_bottom.properties
+                mcpatcher/ctm/cobblestone/cobblestone_top_bottom.properties
+
+The Coal Block and Iron Sword looked better in the JSTR so they have been added to the Legacy pack.
+
+Updated the Cobblestone CTM due to a properties file mistake.
+
+
+
+-{1.2.15}- 11th April 2014 - 1.7.8------------------------------------------------------------------
+
+JimStoneCraft
+<ADDED>
+[JimStoneCraft] mcpatcher/ctm/glass/glass_pane.properties
+                mcpatcher/ctm/stained_glass_black/stained_glass_pane_black.properties
+                mcpatcher/ctm/stained_glass_blue/stained_glass_pane_blue.properties
+                mcpatcher/ctm/stained_glass_brown/stained_glass_pane_brown.properties
+                mcpatcher/ctm/stained_glass_cyan/stained_glass_pane_cyan.properties
+                mcpatcher/ctm/stained_glass_gray/stained_glass_pane_gray.properties
+                mcpatcher/ctm/stained_glass_green/stained_glass_pane_green.properties
+                mcpatcher/ctm/stained_glass_light_blue/stained_glass_pane_light_blue.properties
+                mcpatcher/ctm/stained_glass_lime/stained_glass_pane_lime.properties
+                mcpatcher/ctm/stained_glass_magenta/stained_glass_pane_magenta.properties
+                mcpatcher/ctm/stained_glass_orange/stained_glass_pane_orange.properties
+                mcpatcher/ctm/stained_glass_pink/stained_glass_pane_pink.properties
+                mcpatcher/ctm/stained_glass_purple/stained_glass_pane_purple.properties
+                mcpatcher/ctm/stained_glass_red/stained_glass_pane_red.properties
+                mcpatcher/ctm/stained_glass_silver/stained_glass_pane_silver.properties
+                mcpatcher/ctm/stained_glass_white/stained_glass_pane_white.properties
+                mcpatcher/ctm/stained_glass_yellow/stained_glass_pane_yellow.properties
+                mcpatcher/ctm/flower_pot/flower_pot.properties
+
+Added CTM properties for the glass panes.
+
+Flower Pot random ctm now works correctly (finally).
+
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] mcpatcher/ctm/cactus/cactus_bottom.properties
+                mcpatcher/ctm/cactus/cactus_sides.properties
+                mcpatcher/ctm/cactus/cactus_top.properties
+                textures/gui/icons.png
+                textures/gui/widgets.png
+
+More CTM updated to the names format from the ID format.
+
+Added the extra X to the Icons sheet.
+
+New widget 1.7.8 buttons.
+
+
+
+-{1.2.14}- 28th March 2014 - 1.7.5------------------------------------------------------------------
+
+JimStoneCraft
+<ADDED>
+[JimStoneCraft] mcpatcher/color.properties
+                mcpatcher/sky/world0/sky_clouds1.png
+                mcpatcher/sky/world0/sky10.properties
+                mcpatcher/sky/world0/moon_phases.png
+                mcpatcher/sky/world0/moon_phases.properties
+                mcpatcher/ctm/stone/stone.properties
+                mcpatcher/ctm/wool_white/wool_white.properties
+                mcpatcher/ctm/wool_white/0-47.png
+                mcpatcher/ctm/brick/brick_block_sides.properties
+                mcpatcher/ctm/brick/brick_block_top_bottom.properties
+                mcpatcher/ctm/brick/brick_slab_sides.properties
+                mcpatcher/ctm/brick/brick_slab_top_bottom.properties
+                mcpatcher/ctm/brick/brick_slab_upper_sides.properties
+                mcpatcher/ctm/brick_stairs/brick_stairs_bottom_1.png
+                mcpatcher/ctm/brick_stairs/brick_stairs_bottom_1.properties
+                mcpatcher/ctm/brick_stairs/brick_stairs_bottom_2.png
+                mcpatcher/ctm/brick_stairs/brick_stairs_bottom_2.properties
+                mcpatcher/ctm/brick_stairs/brick_stairs_sides.png
+                mcpatcher/ctm/brick_stairs/brick_stairs_sides.properties
+                mcpatcher/ctm/brick_stairs/brick_stairs_top.png
+                mcpatcher/ctm/brick_stairs/brick_stairs_top.properties
+                mcpatcher/ctm/cobblestone/cobblestone_sides.properties
+                mcpatcher/ctm/cobblestone/cobblestone_slab_top_bottom.properties
+                mcpatcher/ctm/cobblestone/cobblestone_top_bottom.properties
+                mcpatcher/ctm/cobblestone_mossy/mossy_cobblestone_sides.properties
+                mcpatcher/ctm/cobblestone_mossy/mossy_cobblestone_top_bottom.properties
+                mcpatcher/ctm/cobblestone_stairs/stone_stairs_sides.png
+                mcpatcher/ctm/cobblestone_stairs/stone_stairs_sides.properties
+                mcpatcher/ctm/cobblestone_stairs/stone_stairs_top_bottom_1.png
+                mcpatcher/ctm/cobblestone_stairs/stone_stairs_top_bottom_1.properties
+                mcpatcher/ctm/cobblestone_stairs/stone_stairs_top_bottom_2.png
+                mcpatcher/ctm/cobblestone_stairs/stone_stairs_top_bottom_2.properties
+                mcpatcher/ctm/nether_brick/nether_brick_sides.properties
+                mcpatcher/ctm/nether_brick/nether_brick_slab_bottom.properties
+                mcpatcher/ctm/nether_brick/nether_brick_slab_sides.properties
+                mcpatcher/ctm/nether_brick/nether_brick_slab_top.properties
+                mcpatcher/ctm/nether_brick/nether_brick_top_bottom.properties
+                mcpatcher/ctm/nether_brick_stairs/nether_brick_stairs_sides.properties
+                mcpatcher/ctm/nether_brick_stairs/nether_brick_stairs_top_bottom.properties
+                mcpatcher/ctm/planks_oak/oak_stairs.properties
+                mcpatcher/ctm/planks_oak/planks_oak.properties
+                mcpatcher/ctm/planks_oak/wooden_slab_oak.properties
+                mcpatcher/ctm/sandstone/0-5.png
+                mcpatcher/ctm/sandstone/10-15.png
+                mcpatcher/ctm/sandstone/sandstone.properties
+                mcpatcher/ctm/sandstone/sandstone_bottom.png
+                mcpatcher/ctm/sandstone/sandstone_bottom.properties
+                mcpatcher/ctm/sandstone/sandstone_top.properties
+                mcpatcher/ctm/wood_acacia_log_end/wood_acacia_log_end.properties
+                mcpatcher/ctm/wood_birch_log_end/wood_birch_log_end.properties
+                mcpatcher/ctm/wood_darkoak_log_end/wood_darkoak_log_end.properties
+                mcpatcher/ctm/wood_jungle_log_end/wood_jungle_log_end.properties
+                mcpatcher/ctm/wood_oak_log_end/wood_oak_log_end.properties
+                mcpatcher/ctm/wood_spruce_log_end/wood_spruce_log_end.properties
+
+[Alternates]    mcpatcher/ctm/stone/0-4.png
+
+Added Endermite spawn egg colours.
+
+Extra cloud layer at triple speed.
+
+New moon due to the black blackgrounds and now has more phases.
+
+Lots of CTM updated to the names format from the ID format.
+
+Random CTM for stone.
+
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] mcpatcher/sky/world0/sky_polaris_north_star_night.png
+                mcpatcher/sky/world0/sky_shooting_star_e.png
+                mcpatcher/sky/world0/sky_shooting_star_n.png
+                mcpatcher/sky/world0/sky_shooting_star_ne.png
+                mcpatcher/sky/world0/sky_shooting_star_nw.png
+                mcpatcher/sky/world0/sky_shooting_star_s.png
+                mcpatcher/sky/world0/sky_shooting_star_se.png
+                mcpatcher/sky/world0/sky_shooting_star_sw.png
+                mcpatcher/sky/world0/sky_shooting_star_w.png
+                mcpatcher/sky/world0/sky9.properties
+                textures/enviroment/moon_phases.png
+                mcpatcher/ctm/deadbush/deadbush.properties
+                mcpatcher/ctm/dirt/dirt.properties
+                mcpatcher/ctm/flower_allium.properties
+                mcpatcher/ctm/flower_blue_orchid/flower_blue_orchid.properties
+                mcpatcher/ctm/flower_dandelion/flower_dandelion.properties
+                mcpatcher/ctm/flower_houstonia/flower_houstonia.properties
+                mcpatcher/ctm/flower_oxeye_daisy/flower_oxeye_daisy.properties
+                mcpatcher/ctm/flower_rose/flower_rose.properties
+                mcpatcher/ctm/flower_tulip_orange/flower_tulip_orange.properties
+                mcpatcher/ctm/flower_tulip_pink/flower_tulip_pink.properties
+                mcpatcher/ctm/flower_tulip_red/flower_tulip_red.properties
+                mcpatcher/ctm/flower_tulip_white/flower_tulip_white.properties
+                mcpatcher/ctm/stained_glass_black/stained_glass_black.properties
+                mcpatcher/ctm/stained_glass_blue/stained_glass_blue.properties
+                mcpatcher/ctm/stained_glass_brown/stained_glass_blue.properties
+                mcpatcher/ctm/stained_glass_cyan/stained_glass_cyan.properties
+                mcpatcher/ctm/stained_glass_gray/stained_glass_gray.properties
+                mcpatcher/ctm/stained_glass_green/stained_glass_green.properties
+                mcpatcher/ctm/stained_glass_light_blue/stained_glass_light_blue.properties
+                mcpatcher/ctm/stained_glass_lime/stained_glass_lime.properties
+                mcpatcher/ctm/stained_glass_magenta/stained_glass_magenta.properties
+                mcpatcher/ctm/stained_glass_orange/stained_glass_orange.properties
+                mcpatcher/ctm/stained_glass_pink/stained_glass_pink.properties
+                mcpatcher/ctm/stained_glass_purple/stained_glass_purple.properties
+                mcpatcher/ctm/stained_glass_red/stained_glass_red.properties
+                mcpatcher/ctm/stained_glass_silver/stained_glass_silver.properties
+                mcpatcher/ctm/stained_glass_white/stained_glass_white.properties
+                mcpatcher/ctm/stained_glass_yellow/stained_glass_yellow.properties
+                mcpatcher/ctm/grass/grass_top
+                mcpatcher/ctm/gravel/gravel.properties
+                mcpatcher/ctm/leaves/birch/leaves_birch.properties
+                mcpatcher/ctm/leaves_oak/leaves_oak.properties
+                mcpatcher/ctm/mob_spawner/mob_spawner_bottom.properties
+                mcpatcher/ctm/mob_spawner/mob_spawner_top.properties
+                mcpatcher/ctm/podzol/podzol.properties
+                mcpatcher/ctm/reeds/reeds.properties
+                mcpatcher/ctm/stone/stone.properties
+                mcpatcher/ctm/stone_slab/stone_slab.properties
+                mcpatcher/ctm/stonebrick/stonebrick.properties
+                mcpatcher/ctm/stonebrick_cracked/stonebrick_cracked.properties
+                mcpatcher/ctm/stonebrick_mossy/stonebrick_mossy.properties
+                mcpatcher/ctm/stonebrick_mossy/stonebrick_mossy_top.properties
+                mcpatcher/ctm/tallgrass/tallgrass.properties
+                mcpatcher/ctm/vine/vine.properties
+                mcpatcher/ctm/wooden_fence/fence_sides.properties
+                mcpatcher/ctm/wooden_fence/fence_top_bottom.properties
+                mcpatcher/ctm/nether_brick_fence/nether_brick_fence_sides.properties
+                mcpatcher/ctm/nether_brick_fence/nether_brick_fence_top_bottom.properties
+
+Adjust the black backgrounds to transparent.
+
+Doubled the duration speed for the cloud layer.
+
+New moon due to the black blackgrounds and now has more phases.
+
+Glass directories and properties files rename, updated the CTM to the names format from ID's.
+
+JimStoneCraft
+<REMOVED>
+                mcpatcher/ctm/brick/block44.properties
+                mcpatcher/ctm/brick/block44a.properties
+                mcpatcher/ctm/brick/block44c.properties
+                mcpatcher/ctm/brick/block45.properties
+                mcpatcher/ctm/brick/block45a.properties
+                mcpatcher/ctm/brick_stairs/block44.properties
+                mcpatcher/ctm/brick_stairs/block44a.properties
+                mcpatcher/ctm/brick_stairs/block44c.properties
+                mcpatcher/ctm/brick_stairs/block45.properties
+                mcpatcher/ctm/brick_stairs/block45a.properties
+                mcpatcher/ctm/cobblestone/block4.properties
+                mcpatcher/ctm/cobblestone/block4a.properties
+                mcpatcher/ctm/cobblestone/block44.properties
+                mcpatcher/ctm/cobblestone_mossy/cobblestone_mossy_top.properties
+                mcpatcher/ctm/cobblestone_stairs/0.png
+                mcpatcher/ctm/cobblestone_stairs/1.png
+                mcpatcher/ctm/cobblestone_stairs/2.png
+                mcpatcher/ctm/cobblestone_stairs/block67.properties
+                mcpatcher/ctm/cobblestone_stairs/block67a.properties
+                mcpatcher/ctm/cobblestone_stairs/block67b.properties
+                mcpatcher/ctm/nether_brick_stairs/block114.properties
+                mcpatcher/ctm/nether_brick_stairs/block114a.properties
+                mcpatcher/ctm/planks_oak/block5.properties
+                mcpatcher/ctm/planks_oak/block53.properties
+                mcpatcher/ctm/planks_oak/block126.properties
+                mcpatcher/ctm/sandstone_normal/0-5.png
+                mcpatcher/ctm/sandstone_normal.properties
+                mcpatcher/ctm/sandstone/sandstone_top/0-5.png
+                mcpatcher/ctm/sandstone/sandstone_top.properties
+                mcpatcher/ctm/sandstone_carved/sandstone_carved/block24.properties
+                mcpatcher/ctm/stone_button/block77.properties
+                mcpatcher/ctm/stonebrick_cracked/block98.properties
+                mcpatcher/ctm/stonebrick_cracked/block98a.properties
+                mcpatcher/ctm/stonebrick_mossy/stonebricksmooth_mossy_a.properties
+                mcpatcher/ctm/wool/wool_colored_white.properties
+                mcpatcher/ctm/wool/0-11.png
+                mcpatcher/ctm/wool/16-27.png
+                mcpatcher/ctm/wool/32-43.png
+                mcpatcher/ctm/wool/48-59.png
+                mcpatcher/ctm/tripwire/e_side.properties
+                mcpatcher/ctm/tripwire/e_top.png
+                mcpatcher/ctm/tripwire/e_top.properties
+                mcpatcher/ctm/tripwire/n_top.png
+                mcpatcher/ctm/tripwire/n_top.properties
+                mcpatcher/ctm/tripwire/nw_side.png
+                mcpatcher/ctm/tripwire/nw_side.properties
+                mcpatcher/ctm/tripwire/s.png
+                mcpatcher/ctm/tripwire/s.properties
+                mcpatcher/ctm/tripwire/w_top.png
+                mcpatcher/ctm/tripwire/w_top.properties
+                mcpatcher/ctm/wood_acacia_log_end/block162.properties
+                mcpatcher/ctm/wood_birch_log_end/block17.properties
+                mcpatcher/ctm/wood_darkoak_log_end/block162.properties
+                mcpatcher/ctm/wood_jungle_log_end/block17.properties
+                mcpatcher/ctm/wood_oak_log_end/block17.properties
+                mcpatcher/ctm/wood_spruce_log_end/block17.properties
+
+Lots of CTM removed due to the changes from ID's to the names format.
+
+
+
+-{1.2.13}- 20th March 2014 - 1.7.5------------------------------------------------------------------
+
+JimStoneCraft
+<ADDED>
+[JimStoneCraft] mcpatcher/sky/world0/sky3.properties
+                mcpatcher/sky/world0/sky_polaris_north_star.png
+                mcpatcher/sky/world0/sky_polaris_north_star_night.png
+                mcpatcher/sky/world0/sky_shooting_star_e.png
+                mcpatcher/sky/world0/sky_shooting_star_n.png
+                mcpatcher/sky/world0/sky_shooting_star_ne.png
+                mcpatcher/sky/world0/sky_shooting_star_nw.png
+                mcpatcher/sky/world0/sky_shooting_star_s.png
+                mcpatcher/sky/world0/sky_shooting_star_se.png
+                mcpatcher/sky/world0/sky_shooting_star_sw.png
+                mcpatcher/sky/world0/sky_shooting_star_w.png
+                mcpatcher/sky/world0/sky13.properties - sky30.properties
+                mcpatcher/ctm/flower_allium.properties
+                mcpatcher/ctm/flower_blue_orchid.properties
+                mcpatcher/ctm/flower_dandelion.properties
+                mcpatcher/ctm/flower_houstonia.properties
+                mcpatcher/ctm/flower_oxeye_daisy.properties
+                mcpatcher/ctm/flower_tulip_orange.properties
+                mcpatcher/ctm/flower_tulip_pink.properties
+                mcpatcher/ctm/flower_tulip_red.properties
+                mcpatcher/ctm/flower_tulip_white.properties
+[JonnnLeee]     mcpatcher/ctm/flower_allium/0-3.png
+                mcpatcher/ctm/flower_blue_orchid/0-3.png
+                mcpatcher/ctm/flower_houstonia/0-3.png
+                mcpatcher/ctm/flower_oxeye_daisy/0-3.png
+                mcpatcher/ctm/flower_tulip_orange/0-3.png
+                mcpatcher/ctm/flower_tulip_pink/0-3.png
+                mcpatcher/ctm/flower_tulip_red/0-3.png
+                mcpatcher/ctm/flower_tulip_white/0-3.png
+
+I noticed that the sky_sunflare2.png was not used so added a properties file for it and renumbered
+the rest of the properties files to match.
+
+The North Star Polaris (Pole Star) and nighttime shooting stars.
+
+Added the wonderfully detailed CTM flowers by JonnnLeee.
+
+JimStoneCraft
+<UPDATED>
+[JohnSmith]     mcpatcher/sky/world0/sky_box.png
+                mcpatcher/sky/world0/sky_clouds.png
+                mcpatcher/sky/world0/sky_sunflare.png
+                mcpatcher/sky/world0/sky_sunflare1.png
+                mcpatcher/sky/world0/sky_sunflare2.png
+                mcpatcher/sky/world0/sky_sunflare3.png
+[JimStoneCraft] sky1.properties - sky12.properties
+                textures/environment/sun.png
+
+I noticed there were higher resolution versions of the sky images in a previous version of the
+JohnSmith pack (v9.6) so I've added them to this pack.
+
+Cleaned up the sky properties files.
+
+Doubled the resolution of the Sun to better match the new hires images.
+
+
+
+-{1.2.12}- 15th March 2014 - 1.7.5------------------------------------------------------------------
+
+JimStoneCraft
+<ADDED>
+[JonnnLeee] textures/blocks/double_plant_paeonia_bottom.png
+            textures/blocks/double_plant_paeonia_top.png
+            textures/blocks/double_plant_rose_bottom.png
+            textures/blocks/double_plant_rose_top.png
+            textures/blocks/double_plant_sunflower_back.png
+            textures/blocks/double_plant_sunflower_bottom.png
+            textures/blocks/double_plant_sunflower_front.png
+            textures/blocks/double_plant_sunflower_top.png
+            textures/blocks/double_plant_syringa_bottom.png
+            textures/blocks/double_plant_syringa_top.png
+            textures/blocks/flower_allium.png
+            textures/blocks/flower_blue_orchid.png
+            textures/blocks/flower_houstonia.png
+            textures/blocks/flower_oxeye_daisy.png
+            textures/blocks/flower_paeonia.png
+            textures/blocks/flower_tulip_orange.png
+            textures/blocks/flower_tulip_pink.png
+            textures/blocks/flower_tulip_red.png
+            textures/blocks/flower_tulip_white.png
+            textures/blocks/alternates/coal_ore.png
+            textures/blocks/alternates/diamond_ore.png
+            textures/blocks/alternates/emerald_ore.png
+            textures/blocks/alternates/gold_ore.png
+            textures/blocks/alternates/iron_ore.png
+            textures/blocks/alternates/iron_ore.png.mcmeta
+            textures/blocks/alternates/lapis_ore.png
+            textures/blocks/alternates/lapis_ore.png.mcmeta
+            textures/blocks/alternates/redstone_ore.png
+            textures/blocks/alternates/redstone_ore.png.mcmeta
+            textures/blocks/alternates/stone.png
+            textures/blocks/alternates/mcpatcher/ctm/stone
+
+Changed the flowers to the much more detail versions by JonnnLeee.
+
+Added the smooth stone alternates for all the ores.
+
+
+
+-{1.2.11}- 28th February 2014 - 1.7.5---------------------------------------------------------------
+
+JimStoneCraft
+<ADDED>
+[JimStoneCraft] textures/gui/widgets.png
+
+Added the earth to the widgets sheet.
+
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] textures/blocks/endframe_eye.png
+                textures/items/leather_chestplate.png
+                textures/items/leather_chestplate_overlay.png
+                textures/models/leather_layer_1_overlay.png
+
+
+Cleaned up the End Frame Ender Eye as it was one pixel out of position.
+
+Leather Overlay now includes a belt and a collar, also on the item icons.
+
+
+
+-{1.2.10}- 19th February 2014 - 1.7.4---------------------------------------------------------------
+
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] textures/gui/container/brewing_stand.png
+                textures/gui/container/crafting_table.png
+                textures/gui/container/furnace.png
+                textures/gui/container/inventory.png
+                textures/gui/container/villager.png
+                textures/items/empty_armor_slot_boots.png
+                textures/items/empty_armor_slot_chestplate.png
+                textures/items/empty_armor_slot_helmet.png
+                textures/items/empty_armor_slot_leggings.png
+                textures/items/leather_boots.png
+                textures/items/leather_boots_overlay.png
+                textures/items/leather_chestplate.png
+                textures/items/leather_chestplate_overlay.png
+                textures/items/leather_helmet.png
+                textures/items/leather_helmet_overlay.png
+                textures/items/leather_leggings.png
+                textures/items/leather_leggings_overlay.png
+
+Sorted out an alignment issue with the Furnace, Brewing Stand and villager GUI.
+
+Also cleaned up and made the GUI screens more consistent.
+
+Cleaned up positioning and some dirty pixels on the Armor icons, also adjusted the leather armor to
+suit the icon positions.
+
+This will really be the last 1.7.4 update until 1.8 comes out.
+
+
+
+-{1.2.9}- 18th February 2014 - 1.7.4----------------------------------------------------------------
+
+JimStoneCraft
+<ADDED>
+[JohnCooldude876] textures/entity/iron_golem.png
+[JimStoneCraft]   mcpatcher/colormap/lavadrop.png
+                  mcpatcher/colormap/myceliumparticle.png
+                  mcpatcher/colormap/redstone.png
+                  mcpatcher/colormap/xporb.png
+                  mcpatcher/colormap/melonstem.png
+                  mcpatcher/colormap/pumpkinstem.png
+                  mcpatcher/line/fishingline.png
+                  mcpatcher/line/fishingline.properties
+                  mcpatcher/line/lead.png
+                  mcpatcher/line/lead.properties
+                  mcpatcher/mob/skeleton/skeleton2 - 15.png
+                  mcpatcher/mob/skeleton/wither_skeleton2 - 15.png
+
+New Iron Golem.
+
+Custom colours for Melon and Pumpkin stems, dripping lava, Mycelium particle effect, Redstone and XP
+Orb.
+
+Lead and Fishing Line textures.
+
+Redone the Skeleton and Wither Skeleton CTM textures to add some more variety, there are now sixteen
+versions of each Skeleton.
+
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] textures/blocks/sapling_jungle.png
+                textures/gui/container/beacon.png
+                textures/entity/skeleton/skeleton.png
+                textures/entity/skeleton/wither_skeleton.png
+
+Cleaned up the Jungle Sapling and Beacon button textures.
+
+Redone the Skeleton and Wither Skeleton textures to match the new CTM files.
+
+Moved all the helper files into it's own directory, this is more for texture authors than end users.
+
+Added some more custom colours for the XP Bar, Ender Dragon and sign text.
+
+Spawner Egg Colour added to the color.properties, also reorganised the file into an easier reading
+layout.
+
+This will be the last 1.7.4 update until 1.8 comes out.
+
+
+
+-{1.2.8}- 8th January 2014 - 1.7.4------------------------------------------------------------------
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] textures/blocks/leaves_spruce_opaque.png
+                textures/map/map_icons.png
+                textures/items/potato.png
+                textures/items/potato_baked.png
+                textures/items/potato_poisonous.png
+                mcpatcher/ctm/mob_spawner/mob_spawner_top.png
+                mcpatcher/ctm/mob_spawner/mob_spawner_top.properties
+                mcpatcher/ctm/mob_spawner/mob_spawner_bottom.png
+                mcpatcher/ctm/mob_spawner/mob_spawner_bottom.properties
+                mcpatcher/ctm/color.properties
+<REMOVED>       mcpatcher/font/ascii.properties
+                mcpatcher/font/unicode_page_00.properties
+                textures/font/ascii.properties
+                textures/font/unicode_page_00.properties
+
+Cleaned up the Spruce Opaque leaves.
+
+Made the Map Icons much clearer (32x32px for each icon now).
+
+Cleaned up the top and bottom CTM properties for the monster spawners as there were some errors.
+
+Tweaked the Potatos to be a little rounder.
+
+I had no plans on testing this pack in Optifine but decided to do some limited testing anyway as
+some people are having some issues.
+
+In Minecraft 1.7 onwards, blocks are referred to by name rather than ID number.
+
+Numerical IDs are supported for older blocks currently, but newer blocks will be name only. 
+ 
+Stone blocks for example can be referred to as:-
+   1               (not recommended)
+   minecraft:stone (full name)
+   stone           (name without prefix)
+   
+The trouble is Optifine still uses ID's so this is why the custom colours are not working correctly.
+
+I've temporarily change the names back to ID's (names are still in the color.properties files but
+are commented out) as at least this is currently compatible with both Optifine and MCPatcher but
+with new blocks coming along like Granite, these will not even have an ID number and go by just a
+name so this will have to change to the newer system in the end anyway.
+
+Some things like the trip wire hooks and lever do not work in Optifine (they will look default).
+
+As the font can display wrong with Optifine, I've removed the two font kerning properties files.
+
+
+
+-{1.2.7}- 25th December 2013 - 1.7.4----------------------------------------------------------------
+JimStoneCraft
+<ADDED>
+[JimStoneCraft] textures/entity/chest/christmas_double.png
+                textures/entity/chest/christmas.png
+                mcpatcher/colormap/leaves_acacia.png
+                mcpatcher/colormap/leaves_birch.png
+                mcpatcher/colormap/leaves_dark_oak.png
+                mcpatcher/colormap/leaves_jungle.png
+                mcpatcher/colormap/leaves_oak.png
+                mcpatcher/colormap/leaves_spruce.png
+                mcpatcher/ctm/flower_allium/0.png - 11.png
+                mcpatcher/ctm/flower_allium/flower_allium.properties
+                mcpatcher/ctm/flower_blue_orchid/0.png - 11.png
+                mcpatcher/ctm/flower_blue_orchid/flower_blue_orchid.properties
+                mcpatcher/ctm/flower_houstonia/0.png - 11.png
+                mcpatcher/ctm/flower_houstonia/flower_houstonia.properties
+                mcpatcher/ctm/flower_oxeye_daisy/0.png - 11.png
+                mcpatcher/ctm/flower_oxeye_daisy/flower_oxeye_daisy.properties
+                mcpatcher/ctm/flower_tulip_orange/0.png - 11.png
+                mcpatcher/ctm/flower_tulip_orange/flower_tulip_orange.properties
+                mcpatcher/ctm/flower_tulip_pink/0.png - 11.png
+                mcpatcher/ctm/flower_tulip_pink/flower_tulip_pink.properties
+                mcpatcher/ctm/flower_tulip_red/0.png - 11.png
+                mcpatcher/ctm/flower_tulip_red/flower_tulip_red.properties
+                mcpatcher/ctm/flower_tulip_white/0.png - 11.png
+                mcpatcher/ctm/flower_tulip_white/flower_tulip_white.properties
+
+Tweaked the two christmas chests.
+
+New CTM flowers, twelve varieties for each, different heights and colourings.
+
+New leaf colours depending on the biome.
+
+
+
+-{1.2.6}- 22nd December 2013 - 1.7.4----------------------------------------------------------------
+JimStoneCraft
+<ADDED>
+[Mojang]        textures/gui/title/mojang.png
+[JimStoneCraft] mcpatcher/ctm/planks_oak/0.png - 4.png
+                mcpatcher/ctm/planks_oak/block5.properties
+                mcpatcher/ctm/planks_oak/block53.properties
+                mcpatcher/ctm/planks_oak/block126.properties
+                mcpatcher/ctm/brick_stairs/block108.properties
+                mcpatcher/ctm/brick_stairs/block108a.properties
+                mcpatcher/ctm/brick_stairs/block108b.properties
+                mcpatcher/ctm/brick_stairs/block108c.properties
+                mcpatcher/ctm/brick_stairs/bottom1.png
+                mcpatcher/ctm/brick_stairs/bottom2.png
+                mcpatcher/ctm/brick_stairs/sides.png
+                mcpatcher/ctm/brick_stairs/top.png
+                mcpatcher/ctm/brick/5.png - 8.png
+                mcpatcher/ctm/brick/block44.properties
+                mcpatcher/ctm/brick/block44a.properties
+                mcpatcher/ctm/brick/block44c.properties
+                mcpatcher/ctm/brick/block45.properties
+                mcpatcher/ctm/brick/block45a.properties
+                mcpatcher/ctm/wood_acacia_log_end/0.png - 46.png
+                mcpatcher/ctm/wood_acacia_log_end/block162.properties
+                mcpatcher/ctm/wood_birch_log_end/0.png - 46.png
+                mcpatcher/ctm/wood_birch_log_end/block17.properties
+                mcpatcher/ctm/wood_darkoak_log_end/0.png - 46.png
+                mcpatcher/ctm/wood_darkoak_log_end/block162.properties
+                mcpatcher/ctm/wood_jungle_log_end/0.png - 46.png
+                mcpatcher/ctm/wood_jungle_log_end/block17.properties
+                mcpatcher/ctm/wood_oak_log_end/0.png - 46.png
+                mcpatcher/ctm/wood_oak_log_end/block17.properties
+                mcpatcher/ctm/wood_spruce_log_end/0.png - 46.png
+                mcpatcher/ctm/wood_spruce_log_end/block17.properties
+
+The old logo it still there if you want it instead (mojang_old.png).
+
+Oak (Blocks, Slabs and Stairs) now have random textures.
+
+Made a new bottom for the brick stairs.
+
+The bricks now display on the bottom of slabs too.
+
+All the logs now have CTM.
+
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] textures/blocks/log_acacia_top.png
+                textures/blocks/log_big_oak_top.png
+                textures/blocks/log_birch_top.png
+                textures/blocks/log_jungle_top.png
+                textures/blocks/log_oak_top.png
+                textures/blocks/log_spruce_top.png
+
+Replaced the logs to match the new CTM logs.
+
+
+
+-{1.2.5}- 8th December 2013 - 1.7.3-----------------------------------------------------------------
+JimStoneCraft
+<ADDED>
+[JimStoneCraft] mcpatcher/ctm/melon/melon.properties
+                mcpatcher/ctm/mushroom_brown/brown_mushroom_block.properties
+                mcpatcher/ctm/mushroom_brown/brown_mushroom_block_top.png
+                mcpatcher/ctm/wooden_button/block143.properties
+                mcpatcher/ctm/wooden_button/button.png
+                mcpatcher/ctm/stone_button/block77.properties
+                mcpatcher/ctm/stone_button/button.png
+                mcpatcher/ctm/wooden_fence/block85.properties
+                mcpatcher/ctm/wooden_fence/block85a.properties
+                mcpatcher/ctm/wooden_fence/0.png - 4.png
+                mcpatcher/ctm/nether_brick_fence/block113.properties
+                mcpatcher/ctm/nether_brick_fence/block113a.properties
+                mcpatcher/ctm/nether_brick_fence/0.png - 4.png
+                mcpatcher/ctm/fence_gate/block107- 1 - 18.properties
+                mcpatcher/ctm/fence_gate/0.png - 6.png
+                mcpatcher/ctm/lever/stone0.png - stone4.png
+                mcpatcher/ctm/lever/lever_fix_stone0 - 6.properties
+                mcpatcher/ctm/tripwire/e_side.properties
+                mcpatcher/ctm/tripwire/e_top.png
+                mcpatcher/ctm/tripwire/e_top.properties
+                mcpatcher/ctm/tripwire/n_top.png
+                mcpatcher/ctm/tripwire/n_top.properties
+                mcpatcher/ctm/tripwire/nw_side.png
+                mcpatcher/ctm/tripwire/nw_side.properties
+                mcpatcher/ctm/tripwire/s.png
+                mcpatcher/ctm/tripwire/s.properties
+                mcpatcher/ctm/tripwire/w_top.png
+                mcpatcher/ctm/tripwire/w_top.properties
+                mcpatcher/ctm/cactus/cactus_bottom.properties
+                mcpatcher/ctm/cactus/cactus_side.properties
+                mcpatcher/ctm/cactus/cactus_top.properties
+                mcpatcher/ctm/cactus/0.png - 10.png
+                mcpatcher/lightmap/world0.png
+                mcpatcher/lightmap/world-1.png
+                mcpatcher/lightmap/world1.png
+
+Custom lightmaps for the three world, doubled the lighting transitions for the Overworld and added
+Night Vision lighting for all three worlds.
+
+world0.png - Overworld
+world-1.png - Nether
+world1.png - The End
+
+The Pumpkin bottom face CTM fixed.
+
+Change the top of the large Brown Mushroom.
+
+Added Wooden and Stone Button, I cannot get the stone button to work even though it's in the same
+format as the Wooden Button.
+
+Cactus vertical CTM.
+
+Wooden Fence and Nether Brick Fence CTM.
+
+The Fence Gate is way too complex but it's done now CTM.
+
+Lever base has a new stone texture CTM.
+
+Tripwire base has some new wood CTM.
+
+JimStoneCraft
+<UPDATED>
+                mcpatcher/ctm/pumpkin/pumpkin.properties
+                textures/blocks/trip_wire_source.png
+
+Made the wooded section match a little better.
+
+
+
+-{1.2.4}- 2nd December 2013 - 1.7.2 - 13w48b--------------------------------------------------------
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] textures/gui/stream_indicator.png
+
+Added Microphone icons.
+
+
+
+-{1.2.3}- 21st November 2013 - 13w47c---------------------------------------------------------------
+JimStoneCraft
+<ADDED>
+[JimStoneCraft] mcpatcher/ctm/cobblestone_stairs/2.png
+                textures/effect/dither.png
+                textures/gui/stream_indicator.png
+                mcpatcher/ctm/nether_brick_stairs
+                mcpatcher/ctm/nether_brick
+[sylcai]        mcpatcher/ctm/cobblestone_stairs/block67.properties
+                mcpatcher/ctm/cobblestone_stairs/block67a.properties
+                mcpatcher/ctm/cobblestone_stairs/block67b.properties
+
+I'm not sure what dither.png is used for but made a version anyway.
+
+The rotation was off on some blocks, here's the updates for the property files.
+
+Experimental Netherbrick CTM
+
+JimStoneCraft
+[UPDATED]
+                textures/gui/widgets.png
+
+Cleaned up the connect icons.
+
+
+
+-{1.2.2}- 17th November 2013 - 1.7.2----------------------------------------------------------------
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] mcpatcher/color.properties
+                mcpatcher/colormap/sky0.png
+                mcpatcher/colormap/reeds.png
+                mcpatcher/ctm/podzol/block3b.properties
+                textures/blocks/portal.png
+                textures/gui/title/mojang.png
+
+The sky colour is now the same as the previous versions of the pack, Reeds are also now back to
+normal.
+
+Converted the colormap.properties file from block ID's to the new naming system.
+
+The Portal animation didn't loop correctly and would bob 1px up when looping, not that noticeable
+but it's all in the detail.
+
+I made a mojang.png logo a back in July but never posted it in the update logs.
+
+After looking at it I thought I could do better so adjusted it a little, it's a twice resolution
+resized logo with redrawn text, it's only shown for a few seconds while the game is loading, I
+would like to redo the logo but would have to be redrawn using vectors from scratch.
+
+Here are the font details for the Mojang text for anyone interested:-
+Arial Black, Size 60, Stroke 1.0, Colour #F6883E (for both letter and stroke).
+
+Sorted out the ramdom CTM podzol not working with block names only ID's.
+
+
+
+-{1.2.1}- 28th October 2013 - 1.7.2-----------------------------------------------------------------
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] textures/entity/spider_eyes.png
+                mcpatcher/color.properties
+
+It would seem to be that the spider_eyes.png file doesn't need an alpha transparent background, when
+you just have black it works fine.
+
+I don't use Custom Colors myself (Custom Colors off in MCPatcher) as I like the look of the original
+colours in Minecraft, but I though I would investigate the grey grass issue anyway.
+
+Minecraft has been slowly adding features that MCPatcher use to only have, this included custom
+colours for biomes, grass, swampfoliage etc...
+
+The color.properties file was a little out of date, this would cause the grass to turn grey when
+patched as it was trying to add a tint to the grass, instead it would override the colour
+completely, all working now.
+
+
+
+-{1.2.0}- 25th October 2013 - 1.7.2-----------------------------------------------------------------
+JimStoneCraft
+<ADDED>
+[Greenhawk837] textures/items/fish_pufferfish_raw.png
+               textures/items/fish_salmon_cooked.png
+               textures/items/fish_salmon_raw.png
+
+[JohnCooldude] textures/items/fish_clownfish_raw.png
+
+[Nova]         textures/entity/squid.png
+               mcpatcher/mob/squid2.png
+               mcpatcher/mob/squid2.png
+
+JimStoneCraft
+<UPDATED>
+This is the combined pack.
+
+
+
+-{1.1.16}- 23rd October 2013 - 1.7 Pre-release------------------------------------------------------
+JimStoneCraft
+<ADDED>
+[JimStoneCraft] textures/blocks/mushroom_block_inside.png
+                textures/blocks/mushroom_block_skin_brown.png
+                textures/blocks/mushroom_block_skin_red
+                textures/blocks/mushroom_block_skin_stem
+
+All the glass converted to John Smith style (thicker lines) as the glass with the thin lines was an
+edited version from another pack.
+
+All the different colours for the CTM Glass, not tested yet due to MCPatcher not on the latest
+version yet.
+
+The CTM still needs to be cleaned up to used names rather than id's.
+
+
+
+-{1.1.15}- 22nd October 2013 - 1.7 Pre-release------------------------------------------------------
+JimStoneCraft
+<ADDED>
+[JimStoneCraft] textures/blocks/planks_acacia.png
+                textures/blocks/planks_big_oak.png
+
+<UPDATED>
+[Greenhawk837]  textures/blocks/log_acacia_top.png
+                textures/blocks/log_big_oak_top.png
+[JimStoneCraft] textures/blocks/log_birch_top.png
+                textures/blocks/log_jungle_top
+                textures/blocks/log_acacia_top.png
+                textures/blocks/log_spruce_top.png
+                textures/blocks/double_plant_sunflower_back.png
+                textures/blocks/double_plant_sunflower_front.png
+
+The edge colour of the log end matches better with the colour of the log side.
+
+Acacia middle made more red to match actual Acacia wood and spruce changed to have a different
+centre for some block variety.
+
+Yeah, swiss roll birch log is back.
+
+Tweaked the Sunflower a little bit.
+
+
+
+-{1.1.14}- 21st October 2013 - 13w43a---------------------------------------------------------------
+JimStoneCraft
+<ADDED>
+[JimStoneCraft] textures/blocks/alternatives/glass_white.png
+                textures/blocks/alternatives/glass_silver.png
+[Greenhawk837]  textures/blocks/alternatives/dirt_podzol_side.png
+
+Added alternatives, you will have to move then manually to the block directory if you want to use
+them.
+
+                textures/blocks/leaves_acacia.png
+                textures/blocks/leaves_acacia_opaque.png
+                textures/blocks/leaves_big_oak.png
+                textures/blocks/leaves_big_oak_opaque.png
+                textures/blocks/log_acacia.png
+                textures/blocks/log_acacia_top.png
+                textures/blocks/log_big_oak.png
+                textures/blocks/log_big_oak_top.png
+
+All the above leaves and logs are from JSTR pack (thaumcraft & extrabiomes).
+
+[JimStoneCraft] textures/blocks/sapling_acacia.png
+                textures/blocks/sapling_roofed_oak.png
+
+Acacia based on the Birch sapling.
+
+I'm guessing new coloured planks will be coming in the next update.
+
+
+
+-{1.1.13}- 18th October 2013 - 13w42b---------------------------------------------------------------
+JimStoneCraft
+<ADDED>
+[JimStoneCraft] textures/blocks/glass_white.png
+                textures/blocks/glass_silver.png
+                textures/blocks/glass_pane_top_white
+                textures/blocks/glass_pane_top_silver
+
+These two textures are 日本語襖/障子 (Japanese Fusuma/shōji) style sliding panels.
+
+The glass_silver.png texture is based on one of the alternative John Smith Glow
+Stone textures, both glass_pane_top_white and glass_pane_top_silver have edges
+that match the panes.
+
+The glass_silver.png is 10% transparent and glass_white.png is 5% transparent, this is so it lets
+light through for a great nighttime effect, plus the paper panels would let light through in real
+life but would not be see through.
+
+JimStoneCraft
+<UPDATED>
+[JimStoneCraft] textures/font/ascii.png
+Added some new European characters, some are still missing as I have no idea what the characters
+are.
+
+All the glass textures are now a little more transparent.
+
+
+
+-{1.1.12}- 10th October 2013 - 13w41a---------------------------------------------------------------
+JimStoneCraft
+<ADDED>
+[JimStoneCraft] textures/blocks/glass.png
+                textures/blocks/glass_black.png
+                textures/blocks/glass_blue.png
+                textures/blocks/glass_brown.png
+                textures/blocks/glass_cyan.png
+                textures/blocks/glass_gray.png
+                textures/blocks/glass_green.png
+                textures/blocks/glass_light_blue.png
+                textures/blocks/glass_lime.png
+                textures/blocks/glass_magenta.png
+                textures/blocks/glass_orange.png
+                textures/blocks/glass_pane_top.png
+                textures/blocks/glass_pane_top_black.png
+                textures/blocks/glass_pane_top_blue.png
+                textures/blocks/glass_pane_top_brown.png
+                textures/blocks/glass_pane_top_cyan.png
+                textures/blocks/glass_pane_top_gray.png
+                textures/blocks/glass_pane_top_green.png
+                textures/blocks/glass_pane_top_light_blue.png
+                textures/blocks/glass_pane_top_lime.png
+                textures/blocks/glass_pane_top_magenta.png
+                textures/blocks/glass_pane_top_orange.png
+                textures/blocks/glass_pane_top_pink.png
+                textures/blocks/glass_pane_top_purple.png
+                textures/blocks/glass_pane_top_red.png
+                textures/blocks/glass_pane_top_silver.png
+                textures/blocks/glass_pane_top_white.png
+                textures/blocks/glass_pane_top_yellow.png
+                textures/blocks/glass_pink.png
+                textures/blocks/glass_purple.png
+                textures/blocks/glass_red.png
+                textures/blocks/glass_silver.png
+                textures/blocks/glass_white.png
+                textures/blocks/glass_yellow.png
+
+
+
+-{1.1.11}- 29th September 2013 - 13w39b-------------------------------------------------------------
+JimStoneCraft
+<UPDATED>
+Readded the John Smith Speeding Chicken to the Painting
+
+
+
+-{1.1.10}- 28th September 2013 - 13w39a-------------------------------------------------------------
+JimStoneCraft
+<UPDATED>
+Red Sand is now more red.
+Tweaked the Sun Flower a little to get rid of some square edges.
+
+
+
+-{1.1.9}- 28th September 2013 - 13w39a--------------------------------------------------------------
+JimStoneCraft
+<ADDED>
+[JimStoneCraft] textures/gui/title/minecraft.png (Minecraft Realms logo)
+                textures/gui/resource_packs.png
+                textures/gui/widgets.png
+                textures/blocks/ice_packed.png
+                textures/blocks/flower_rose.png (Poppy)
+                textures/blocks/double_plant_rose_bottom.png
+                textures/blocks/double_plant_rose_top.png
+                textures/blocks/red_sand.png
+                textures/blocks/double_plant_fern_bottom.png
+                textures/blocks/double_plant_fern_top.png
+                textures/blocks/double_plant_grass_bottom.png
+                textures/blocks/double_plant_grass_top.png
+                textures/blocks/flower_tulip_orange.png
+                textures/blocks/flower_tulip_pink.png
+                textures/blocks/flower_tulip_red.png
+                textures/blocks/flower_tulip_white.png
+                textures/blocks/flower_oxeye_daisy.png
+                textures/blocks/flower_blue_orchid.png
+                textures/blocks/double_plant_sunflower_back.png
+                textures/blocks/double_plant_sunflower_bottom.png
+                textures/blocks/double_plant_sunflower_front.png
+                textures/blocks/double_plant_sunflower_top.png
+                textures/blocks/double_plant_paeonia_bottom.png
+                textures/blocks/double_plant_paeonia_top.png
+                textures/blocks/flower_paeonia.png
+                textures/blocks/double_plant_syringa_bottom.png
+                textures/blocks/double_plant_syringa_top.png
+                textures/blocks/flower_allium.png
+                textures/blocks/flower_houstonia.png
+                textures/items/minecart_command_block.png
+
+[Greenhawk837]  textures/blocks/dirt_podzol_side.png + CTM
+                textures/blocks/dirt_podzol_top.png
+
+<UPDATED>
+Renamed fish_cooked.png - fish_cod_cooked.png
+Renamed fish_raw.png - fish_cod_raw.png
+
+
+New Textures Still Required.
+
+textures/items/fish_clownfish_raw.png
+textures/items/fish_pufferfish_raw.png
+textures/items/fish_salmon_cooked.png
+textures/items/fish_salmon_raw.png
+
+<FIXED>
+None Yet
+
+
+
+-{1.1.8}- 16th July 2013----------------------------------------------------------------------------
+Greenhawk837
+<ADDED>
+- [WaterTipper] CTM Textures for top and bottom sides of Spawners
+- [WaterTipper] CTM Textures for the bottom sides of Pumpkins and Melons
+- [WaterTipper] CTM Textures for End Stone
+
+<UPDATED>
+- [WaterTipper] Changed Birch log top to match others logs
+- [JohnCooldude876] Opaque jungle leaves now matches transparent jungle leaves
+- Red mushroom CTM changed to match original red mushroom
+- Brown mushroom CTM changed to match original brown mushroom
+- NetherBrick Fence CTM removed
+
+<FIXED>
+- [WaterTipper] Glass CTM file
+- Flower Pot CTM textures Removed due to bugs
+- Chiseled Sandstone now looks the same in the inventory as when placed
+
+
+
+-{1.1.7}- 15th July 2013----------------------------------------------------------------------------
+JimStoneCraft:
+<ADDED>
+Horse Textures resized (bug again).
+
+
+
+-{1.1.6}- 14th July 2013----------------------------------------------------------------------------
+JimStoneCraft:
+<ADDED>
+Sorted out a small cobblestone_mossy_top.properties CTM issue.
+
+
+
+-{1.1.5}- 9th July 2013-----------------------------------------------------------------------------
+JimStoneCraft:
+<ADDED>
+Missing hearts in the icons.png and widgets.png.
+Sorted out a small Nether Brick CTM issue.
+
+
+
+-{1.1.4}- 30th June 2013----------------------------------------------------------------------------
+JimStoneCraft:
+<ADDED>
+Lots of random CTM textures.
+deadbush, flower pot, tall grass, log tops, reeds, vines, red and brown mushrooms.
+nether brick, netherrack, sandstone smooth and sandstone carved. 
+
+Some textures were taken from the alternate John Smith texture sheets.
+
+
+
+-{1.1.3}- 29th June 2013----------------------------------------------------------------------------
+JimStoneCraft:
+<UPDATED>
+Reorganized the CTM properties and fully tested all the random blocks.
+Added some extra flowers to the CTM.
+
+
+
+-{1.1.2}- 28th June 2013----------------------------------------------------------------------------
+JimStoneCraft:
+<MOVED>
+colormap, font, lightmap, mob, sky directories created in the MCPatcher
+directory.
+Random mobs moved to the new MCPatcher mob directory.
+CTM folder reorganised by MCPatcher's convertor, still a little messy.
+
+
+
+-{1.1.1}- 27th June 2013----------------------------------------------------------------------------
+JimStoneCraft:
+<MOVED>
+The text files to the root of the Resource Pack so they are easier to find.
+__READ ME.txt
+Animation Frame Properties.txt
+LEGACY_CHANGELOG.txt (this file!!)
+
+JimStoneCraft:
+<UPDATED>
+Animation Frame Properties.txt with the new item and block names.
+
+
+
+-{1.1.0}- (Complete Texture pack conversion to Resource Pack for 1.6)-------------------------------
+
+Greenhawk837:
+<UPDATED>
+-Texture pack conversion to Resource Pack for 1.6 by JimStoneCraft
+This pack is no longer backwards compatible
+MCPatcher 4.1.0-beta3 (or greater) is required for HD font, random mobs, better skies etc...
+
+<ADDED>
+JimStoneCraft's READ ME
+JimStoneCraft's Updated 512px Font (128px version is still there if needed)
+
+NOTE:- Minecraft changed the way Texture packs are layed out and renamed them Resource Packs, this
+pack is no longer backwards compatible and will not work with versions of Minecraft older than 1.6.
+
+Please download the older Texture Pack for 1.52 and 1.47 compatibility.
+
+http://www.jslegacy.com/
+
+
+
+-{1.0.7}--------------------------------------------------------------------------------------------
+
+Greenhawk837:
+<ADDED>
+JimStoneCraft's Horse GUI
+
+<UPDATED>
+JimStoneCraft's Updated Font - Should now work with most European languages
+
+
+
+-{1.0.6}--------------------------------------------------------------------------------------------
+
+Greenhawk837:
+<ADDED>
+Soulburner's armor slots icons
+
+<FIXED>
+Hardened Clay now shows ingame
+
+
+
+-{1.0.5}- (support for snapshot 13w19a)-------------------------------------------------------------
+
+Greenhawk837:
+<ADDED>
+Stained clay textures
+Charcoal texture
+
+
+
+-{1.0.4}- (More support for 1.6 snapshots)----------------------------------------------------------
+
+Greenhawk837:
+<ADDED>
+JimStoneCraft's coal block
+JimStoneCraft's horse armor item & name tag
+JimStoneCraft's horse armor
+
+<UPDATED>
+JimStoneCraft's animated gold nugget & Clock fix
+
+
+(There will be support for some of the vanilla mobs that are currently
+untextured soon)
+
+
+
+-{1.0.3}- (Partial support for 1.6 snapshots)-------------------------------------------------------
+
+Glowstrontium:
+<ADDED>
+JimStoneCraft's straw blocks & rope.
+Also added texture for hardened clay block.
+
+<UPDATED>
+JimStoneCraft's GUI updates - support for horse armor icons and new Realms
+status icons.
+
+
+
+-{1.0.2}--------------------------------------------------------------------------------------------
+
+Greenhawk837:
+<ADDED>
+JimStoneCraft's Arrow entity texture
+
+<UPDATED>
+achievements popup background
+dispenser_front_vertical to fit better
+dropper_front_vertical to fit better
+dropper_front to be easier to tell apart from dispenser
+hopper to look metallic
+chicken minecart artwork to be clearer and lighter
+wither skull to match new Wither Skeleton
+JimStoneCraft's speckledMelon Animation
+JimStoneCraft's Comparator Animation
+JimStoneCraft's Arrow item
+JimStoneCraft's Hopper GUI
+
+<FIXED>
+converted connected textures to the new 1.5 format and organised it into
+categories
+
+
+
+-{1.0.1}--------------------------------------------------------------------------------------------
+
+Greenhawk837:
+<ADDED>
+recolour of EchoZeero's Squid texture.
+
+<UPDATED> 
+new Wither Skeleton texture to match new Wither Boss.
+icons.png with new boss health bar and connection icons.
+
+<FIXED> 
+potato and baked potato textures swapped.
+
+====================================================================================================

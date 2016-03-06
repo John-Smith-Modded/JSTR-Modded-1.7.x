@@ -1,0 +1,30 @@
+
+56 return (35 charactors)
+
+Colour Format:
+
+\u00A7a Light Green
+\u00A7b Light Blue
+\u00A7c Light Red
+\u00A7d Pink
+\u00A7e Yellow
+\u00A7f White
+\u00A71 Dark Blue
+\u00A72 Dark Green
+\u00A73 Aqua
+\u00A74 Dark Red
+\u00A75 Purple
+\u00A76 Gold
+\u00A77 Gray
+\u00A78 Dark Gray
+\u00A79 Blue
+\u00A70 Black
+
+\u00A7l Bold
+\u00A7k Obfuscated
+\u00A7m Strikethrough
+\u00A7n Underline
+\u00A7o Italic
+\u00A7r Reset
+
+Example \u00A7a\u00A7lBranston\u00A7b\u00A7lGaming \u00A7c\u00A7lTutorials

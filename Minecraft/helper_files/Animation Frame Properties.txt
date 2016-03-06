@@ -1,0 +1,82 @@
+============================================
+Animation Frame Properties
+
+This document contains the list of animated
+textures including the pixel sizes and the
+number of animation frames used in the game.
+
+JimStoneCraft
+
+13th November 2015
+============================================
+
+--------------------------------------------
+Name                      Size      Frames
+
+-textures/blocks----------------------------
+
+comparator_on             32x896    28
+
+diamond_ore               32x1440   45
+
+emerald_ore               32x1440   45
+
+fire_layer_0              32x640    20
+
+fire_layer_1              32x640    20
+
+furnace_front_on          32x640    20
+
+ice                       32x1920   60
+
+ice_packed                32x1920   60
+
+iron_ore                  32x1600   50
+
+lapis_ore                 32x1600   50
+
+lava_flow                 64x1280   20
+
+lava_still                32x1280   32
+
+portal                    32x1024   32
+
+prismarine_rough          32x128    4
+
+pumpkin_face_on           32x640    20
+
+rail_detector_powered     32x64     2
+
+redstone_ore              32x1600   28
+
+redstone_torch_on         32x896    28
+
+repeater_on               32x896    28
+
+sea_lantern               32x160    5
+
+torch_on                  32x1024   32
+
+water_flow                64x512    8
+
+water_still               32x1920   60
+
+
+-textures/items-----------------------------
+
+bucket_lava               32x1280   32
+
+bucket_water              32x1920   60
+clock                     32x2048   64
+
+compass                   32x1024   32
+
+diamond                   32x1440   45
+
+emerald                   32x1440   45
+
+gold_nugget               32x992    31
+
+melon_speckled            32x992    31
+
+============================================

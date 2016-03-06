@@ -1,0 +1,1 @@
+IF you do not want connected textures for a block, then delete the corresponding block's folder.
