@@ -1,0 +1,10 @@
+{
+  "mod_id": "BetterAchievements",
+  "mod_name": "Better Achievements",
+  "mod_dir": "/Better_Achievements/",
+  "mod_version": "v0.1.0",
+  "mc_version": "1.7.10",
+  "mod_authors": ["way2muchnoise"],
+  "url_website": "http://mods.curse.com/mc-mods/minecraft/235716-betterachievements",
+  "description": "An improvement to the Achievement screen."
+}
