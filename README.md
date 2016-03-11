@@ -15,6 +15,7 @@ This repository is for modded texture version control. This is where all the JST
 * If there is a breaking texture change to the legacy versions of the mod, open an issue.
 * When adding a mod, your commit message should have the version number that it is compatible with in it.
 * When updating a mod to work with a newer version, your commit message should have the version number that it is updated to.
+* When adding/updating a mod, make sure to also create/update the associated mod.json file. Any questions on how to format this, please open an issue.
 
 #### JSTR Collaborators: ####
 
