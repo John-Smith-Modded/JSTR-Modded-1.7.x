@@ -1,10 +1,10 @@
 {
-  "mod_id": “portalgun”,
-  "mod_name": "Portal Gun“,
+  "mod_id": "portalgun",
+  "mod_name": "Portal Gun",
   "mod_dir": "/Portal_Gun/",
-  "mod_version": "v4.0.0”,
+  "mod_version": "v4.0.0",
   "mc_version": "1.7.10",
-  "mod_authors": [“iChun”],
+  "mod_authors": ["iChun"],
   "url_website": "http://mods.curse.com/mc-mods/minecraft/229084-portal-gun",
   "description": "This mod adds the portal gun, as well as several other portal-related aspects, to Minecraft!"
 }

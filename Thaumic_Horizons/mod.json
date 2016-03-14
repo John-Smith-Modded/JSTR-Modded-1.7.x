@@ -1,10 +1,10 @@
 {
-  "mod_id": “ThaumicHorizons”,
+  "mod_id": "ThaumicHorizons",
   "mod_name": "Thaumic Horizons",
   "mod_dir": "/Thaumic_Horizons/",
   "mod_version": "v1.1.5",
   "mc_version": "1.7.10",
   "mod_authors": ["Kentington"],
   "url_website": "http://mods.curse.com/mc-mods/minecraft/227914-thaumic-horizons",
-  "description": "Pushing the boundaries of magic.”
+  "description": "Pushing the boundaries of magic."
 }

@@ -1,10 +1,10 @@
 {
-  "mod_id": “Hats”,
-  "mod_name": "Hats“,
+  "mod_id": "Hats",
+  "mod_name": "Hats",
   "mod_dir": "/Hats/",
-  "mod_version": "v4.0.1”,
+  "mod_version": "v4.0.1",
   "mc_version": "1.7.10",
-  "mod_authors": [“iChun”],
+  "mod_authors": ["iChun"],
   "url_website": "http://mods.curse.com/mc-mods/minecraft/229073-hats",
-  "description": "Adds a bunch of hats, as wells as the ability to add more, into Minecraft.”
+  "description": "Adds a bunch of hats, as wells as the ability to add more, into Minecraft."
 }

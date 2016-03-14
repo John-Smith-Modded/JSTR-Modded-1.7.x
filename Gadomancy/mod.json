@@ -1,10 +1,10 @@
 {
-  "mod_id": “gadomancy”,
-  "mod_name": “Gadomancy“,
-  "mod_dir": “/Gadomancy/",
-  "mod_version": "v1.0.6.3”,
+  "mod_id": "gadomancy",
+  "mod_name": "Gadomancy",
+  "mod_dir": "/Gadomancy/",
+  "mod_version": "v1.0.6.3",
   "mc_version": "1.7.10",
   "mod_authors": ["makeo", "HellFirePvP"],
   "url_website": "http://mods.curse.com/mc-mods/minecraft/237271-gadomancy",
-  "description": "An addon for Thaumcraft.”
+  "description": "An addon for Thaumcraft."
 }

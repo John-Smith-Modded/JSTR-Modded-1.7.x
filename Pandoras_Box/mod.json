@@ -1,10 +1,10 @@
 {
-  "mod_id": “pandorasbox”,
-  "mod_name": "Pandora's Box“,
+  "mod_id": "pandorasbox",
+  "mod_name": "Pandora's Box",
   "mod_dir": "/Pandoras_Box/",
-  "mod_version": "v2.1”,
+  "mod_version": "v2.1",
   "mc_version": "1.7.10",
-  "mod_authors": [“Ivorius”],
+  "mod_authors": ["Ivorius"],
   "url_website": "http://mods.curse.com/mc-mods/minecraft/222896-pandoras-box",
   "description": "Adds Pandora's Box to the game. What does it do? There's only one way to find out..."
 }

@@ -1,10 +1,10 @@
 {
-  "mod_id": “supercraftingframe”,
-  "mod_name": “Super Crafting Frame”,
+  "mod_id": "supercraftingframe",
+  "mod_name": "Super Crafting Frame",
   "mod_dir": "/Super_Crafting_Frame/",
   "mod_version": "v1.7.10.3",
   "mc_version": "1.7.10",
-  "mod_authors": [“Edgar_Allen”],
+  "mod_authors": ["Edgar_Allen"],
   "url_website": "http://mods.curse.com/mc-mods/minecraft/super-crafting-frame",
-  "description": “A simple mod that helps with repetitive crafting tasks during early game."
+  "description": "A simple mod that helps with repetitive crafting tasks during early game."
 }

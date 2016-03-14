@@ -1,10 +1,10 @@
 {
-  "mod_id": “funkylocomotion”,
-  "mod_name": “Funky Locomotion“,
-  "mod_dir": “/Funky_Locomotion/",
-  "mod_version": "beta-7”,
+  "mod_id": "funkylocomotion",
+  "mod_name": "Funky Locomotion",
+  "mod_dir": "/Funky_Locomotion/",
+  "mod_version": "beta-7",
   "mc_version": "1.7.10",
   "mod_authors": ["RWTema"],
   "url_website": "http://mods.curse.com/mc-mods/minecraft/224190-funky-locomotion",
-  "description": "The world in a grove”
+  "description": "The world in a grove"
 }

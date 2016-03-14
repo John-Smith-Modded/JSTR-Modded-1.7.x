@@ -1,10 +1,10 @@
 {
-  "mod_id": “EnderTanks“,
+  "mod_id": "EnderTanks",
   "mod_name": "EnderTanks",
   "mod_dir": "/EnderTanks/",
-  "mod_version": “rev15”,
-  "mc_version": “1.7.2”,
+  "mod_version": "rev15",
+  "mc_version": "1.7.2",
   "mod_authors": ["ShetiPhian"],
   "url_website": "http://mods.curse.com/mc-mods/minecraft/endertanks",
-  "description": “A simple and compact way to move liquids through dimensions.“
+  "description": "A simple and compact way to move liquids through dimensions."
 }

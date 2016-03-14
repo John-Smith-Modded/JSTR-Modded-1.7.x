@@ -1,10 +1,10 @@
 {
   "mod_id": "weather2",
-  "mod_name": "Localized Weather & Storms”,
-  "mod_dir": "/Localized_Weather_&_Storms/“,
+  "mod_name": "Localized Weather & Storms",
+  "mod_dir": "/Localized_Weather_&_Storms/",
   "mod_version": "v2.3.10",
   "mc_version": "1.7.10",
   "mod_authors": ["Corosus"],
   "url_website": "http://mods.curse.com/mc-mods/minecraft/237746-weather-storms-tornadoes",
-  "description": "Localized rain and storms that evolve into deadly tornadoes and others, also some ambience effects.”
+  "description": "Localized rain and storms that evolve into deadly tornadoes and others, also some ambience effects."
 }
