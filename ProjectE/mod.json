@@ -1,0 +1,10 @@
+{
+  "mod_id": "ProjectE",
+  "mod_name": "ProjectE",
+  "mod_dir": "/ProjectE/",
+  "mod_version": "v1.7.10-PE1.9.5",
+  "mc_version": "1.7.10",
+  "mod_authors": [ "sinkillerj", "Moze_Intel" ],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/226410-projecte",
+  "description": "A complete rewrite of EE2 for modern Minecraft versions."
+}
