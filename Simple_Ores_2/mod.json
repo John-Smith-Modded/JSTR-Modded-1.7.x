@@ -2,9 +2,9 @@
   "mod_id": "simpleores",
   "mod_name": "Simple Ores 2",
   "mod_dir": "/Simple_Ores_2/",
-  "mod_version": "v1.5.1",
+  "mod_version": "v1.6.1.4",
   "mc_version": "1.7.10",
-  "mod_authors": ["AleXndrTheGr8st"],
+  "mod_authors": ["AleXndrTheGr8st, Sinhika"],
   "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279863-alexndrthegr8sts-mods-simplecore-api-simpleores",
   "description": "The mod centers around being an ore mod, adding new metals to the game."
 }
