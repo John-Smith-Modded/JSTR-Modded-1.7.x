@@ -1,0 +1,10 @@
+{
+  "mod_id": "rouletteores",
+  "mod_name": "Roulette Ores",
+  "mod_dir": "/Roulette_Ores/",
+  "mod_version": "v1.0.14",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Funwayguy", "Darkosto"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/230345-roulette-ores",
+  "description": "Random chance of ores to do stuff when mined."
+}
