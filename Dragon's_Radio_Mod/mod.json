@@ -1,0 +1,10 @@
+{
+  "mod_id": "DragonsRadioMod",
+  "mod_name": "Dragon's Radio Mod",
+  "mod_dir": "/Dragon's_Radio_Mod/",
+  "mod_version": "1.7.1",
+  "mc_version": "1.7.10",
+  "mod_authors": ["DragonbornSR", "Vulgarel"],
+  "url_website": "thesociety.eu",
+  "description": "Play internet radio streams in Minecraft!"
+}
