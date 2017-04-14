@@ -1,0 +1,10 @@
+{
+  "mod_id": "rpghud",
+  "mod_name": "RPG Hud",
+  "mod_dir": "/RPG_Hud(Interface+)/",
+  "mod_version": "2.5.1 for 1.7.10",
+  "mc_version": "1.7.10",
+  "mod_authors": ["KurodaAkira"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289321-1-11-1-10-2-rpg-hud-3-5-2-remake-last-update-1",
+  "description": "The new RPG Hud Mod for 1.7.10"
+}
