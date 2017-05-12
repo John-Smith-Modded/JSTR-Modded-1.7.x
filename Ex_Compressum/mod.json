@@ -1,0 +1,10 @@
+{
+  "mod_id": "excompressum",
+  "mod_name": "Ex Compressum",
+  "mod_dir": "/Ex_Compressum/",
+  "mod_version": "v1.1.143",
+  "mc_version": "1.7.10",
+  "mod_authors": ["BlayTheNinth"],
+  "url_website": "https://minecraft.curseforge.com/projects/ex-compressum",
+  "description": "Ex Nihilo Add-on"
+}
