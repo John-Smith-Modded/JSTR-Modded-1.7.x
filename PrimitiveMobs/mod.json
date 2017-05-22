@@ -1,0 +1,10 @@
+{
+  "mod_id": "primitivemobs",
+  "mod_name": "Primitive Mobs",
+  "mod_dir": "/PrimitiveMobs/",
+  "mod_version": "v 1.0",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Daveyx0"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287666-primitive-mobs-v1-0c-last-updated-10-13-14-1-10-2",
+  "description": "A mod with familiar mobs."
+}

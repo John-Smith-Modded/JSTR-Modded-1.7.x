@@ -1,0 +1,10 @@
+{
+  "mod_id": "Trapcraft",
+  "mod_name": "Trapcraft",
+  "mod_dir": "/Trapcraft/",
+  "mod_version": "v2.3.0a",
+  "mc_version": "1.7.10",
+  "mod_authors": ["ProPercivalalb", "Stewiecraft "],
+  "url_website": "http://www.minecraftforum.net/topic/1684171-/",
+  "description": "Addeds new blocks to create traps with, (Fan, Bear Trap, Igniter, Magnetic Chest and Grass Coverings), also a dummy. Plus upgrade your traps with special upgrades!"
+}

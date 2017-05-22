@@ -1,0 +1,10 @@
+{
+  "mod_id": "morebows2",
+  "mod_name": "MoreBows2",
+  "mod_dir": "/MoreBows2/",
+  "mod_version": "1.1",
+  "mc_version": "1.7.10",
+  "mod_authors": ["ShinyMew1256"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2246038-more-bows-2",
+  "description": "This mod is an attempt to port the MoreBows!"
+}
