@@ -1,0 +1,10 @@
+{
+  "mod_id": "Backpack",
+  "mod_name": "Backpack",
+  "mod_dir": "/Backpack/",
+  "mod_version": "2.0.1-1.7.x",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Eydamos"],
+  "url_website": "http://www.minecraftforum.net/topic/1492661-",
+  "description": "Provides the player with multiple, colored backpacks, which each has the space of a normal chest."
+}
