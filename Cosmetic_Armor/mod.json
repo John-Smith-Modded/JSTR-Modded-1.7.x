@@ -1,0 +1,10 @@
+{
+  "mod_id": "cosmeticarmor",
+  "mod_name": "Cosmetic Armor",
+  "mod_dir": "/Cosmetic_Armor/",
+  "mod_version": "1.0.5.B8-universal",
+  "mc_version": "1.7.10",
+  "mod_authors": ["dmillerw"],
+  "url_website": "https://minecraft.curseforge.com/projects/cosmetic-armor",
+  "description": "Cosmetic Armor is a simple mod that brings four additional armor slots to the Player's inventory."
+}
