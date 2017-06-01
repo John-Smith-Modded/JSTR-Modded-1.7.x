@@ -1,0 +1,10 @@
+{
+  "mod_id": "mod.ymt.air.HariboteAirCraft",
+  "mod_name": "HariboteAirCraft",
+  "mod_dir": "/HariboteAirCraft/",
+  "mod_version": "172v1 hiten",
+  "mc_version": "1.7.2",
+  "mod_authors": ["yamato(waco)"],
+  "url_website": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=10418",
+  "description": "Moving craft that making by blocks"
+}

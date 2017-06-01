@@ -1,0 +1,10 @@
+{
+  "mod_id": "enchvil",
+  "mod_name": "Enchvil Mod",
+  "mod_dir": "/Enchvil/",
+  "mod_version": "1.1",
+  "mc_version": "1.7.10",
+  "mod_authors": ["DmgVol"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2135881-enchvil-mod-a-mystical-table",
+  "description": "This mod gives the players the ability to un-enchant items."
+}
