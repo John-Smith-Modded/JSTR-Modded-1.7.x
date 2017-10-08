@@ -1,0 +1,10 @@
+{
+  "mod_id": "miscutils",
+  "mod_name": "GT++",
+  "mod_dir": "/MiscUtils/",
+  "mod_version": "v1.6.05",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Draknyte1"],
+  "url_website": "https://minecraft.curseforge.com/projects/gregtech-gt-gtplusplus",
+  "description": "Addition Mod for Gregtech 5.07 - GT5u 5.09.31"
+}
