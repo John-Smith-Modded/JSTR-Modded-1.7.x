@@ -1,0 +1,10 @@
+{
+  "mod_id": "runicdungeons",
+  "mod_name": "Runic Dungeons",
+  "mod_dir": "/RunicDungeons/",
+  "mod_version": "1.1.7b",
+  "mc_version": "1.7.10",
+  "mod_authors": ["MrComputerGhost"],
+  "url_website": "https://mods.curse.com/mc-mods/minecraft/227065-runic-dungeons",
+  "description": "Simple dungeon dimension mod."
+}
