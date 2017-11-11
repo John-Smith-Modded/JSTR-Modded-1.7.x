@@ -1,0 +1,10 @@
+{
+  "mod_id": "voxelmap",
+  "mod_name": "VoxelMap",
+  "mod_dir": "/VoxelMap/",
+  "mod_version": "v1.7.0",
+  "mc_version": "1.7.10",
+  "mod_authors": ["MamiyaOtaru"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/voxelmap",
+  "description": "VoxelMap is a minimap and worldmap mod."
+}
