@@ -1,0 +1,10 @@
+{
+  "mod_id": "rfdrills",
+  "mod_name": "RFDrills",
+  "mod_dir": "/RFDrills/",
+  "mod_version": "1.7.3",
+  "mc_version": "1.7.10",
+  "mod_authors": ["goldenapple"],
+  "url_website": "https://minecraft.curseforge.com/projects/rfdrills",
+  "description": "Adds RF-powered Drills to Minecraft! Compatible with Thermal Expansion and EnderIO."
+}

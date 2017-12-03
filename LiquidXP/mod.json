@@ -1,0 +1,10 @@
+{
+  "mod_id": "LiquidXP",
+  "mod_name": "Liquid XP",
+  "mod_dir": "/LiquidXP/",
+  "mod_version": "59.0.2",
+  "mc_version": "1.7.10",
+  "mod_authors": ["immibis"],
+  "url_website": "http://www.minecraftforum.net/topic/1001131-110-immibiss-mods-smp/",
+  "description": "Liquid XP and related machines."
+}
