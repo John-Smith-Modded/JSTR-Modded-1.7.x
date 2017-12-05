@@ -1,0 +1,10 @@
+{
+  "mod_id": "jstrsmooth",
+  "mod_name": "JSTR Smooth Overwrite Patch",
+  "mod_dir": "/JSTR_Smooth_Overwrite_Patch/",
+  "mod_version": "v1.0",
+  "mc_version": "1.7",
+  "mod_authors": ["JohnSmithTeam"],
+  "url_website": "http://minecraft.curseforge.com/projects/john-smith-legacy-modded",
+  "description": "An overwrite patch that makes stone, dirt and sand smoother, similar to the old JSTR look."
+}
