@@ -1,0 +1,10 @@
+{
+  "mod_id": "Highlands",
+  "mod_name": "Highlands",
+  "mod_dir": "/Highlands/",
+  "mod_version": "v2.2.3",
+  "mc_version": "1.7.10",
+  "mod_authors": ["fabricator77", "Jpresent"],
+  "url_website": "https://minecraft.curseforge.com/projects/highlands",
+  "description": "Highlands is a mod that adds more biomes to Minecraft.  Over 40 new biomes, new trees, mountains, and biome-specific ore gen."
+}
