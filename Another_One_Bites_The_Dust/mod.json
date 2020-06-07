@@ -1,10 +1,13 @@
 {
-  "mod_id": "aobd",
-  "mod_name": "Another One Bites The Dust",
-  "mod_dir": "/Another_One_Bites_The_Dust/",
-  "mod_version": "v2.9.1",
-  "mc_version": "1.7.10",
-  "mod_authors": ["ganymedes01"],
-  "url_website": "http://mods.curse.com/mc-mods/minecraft/221863-another-one-bites-the-dust",
-  "description": "AOBD dynamically finds all the ores and ingots added by any mod and makes them processable in IC2, EnderIO, RailCraft, Mekanism, Thermal Expansion, Thaumcraft, UltraTech, Factorization, RandomAdditions, Gany's Nether, Modular Systems, Hydraulicraft, Tinker's Construct, SimpleOreGrinder, RotaryCraft, Electrical Age, Aura Cascade, Flaxbeard's Steampower Mod, Engineer's Toolbox, and Immersive Engineering machines!"
+    "mod_id": "aobd",
+    "mod_name": "Another One Bites The Dust",
+    "mod_filename": "AOBD-2.9.2.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "ganymedes01"
+    ],
+    "url_website": "",
+    "description": "Process ALL the ores!",
+    "mod_version": "2.9.2",
+    "mod_dir": "/Another_One_Bites_The_Dust/"
 }

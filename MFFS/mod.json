@@ -1,0 +1,14 @@
+{
+    "mod_id": "modular-forcefield-system",
+    "mod_name": "Modular Forcefield System",
+    "mod_filename": "ModularForcefieldSystem-1.7.10-3.0-ALPHA-7.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Nekosune",
+        "Imalune"
+    ],
+    "url_website": "http://www.curse.com/mc-mods/minecraft/modular-forcefield-system",
+    "description": "Adds powerful Forcefields to Minecraft!",
+    "mod_version": "3.0-ALPHA-7",
+    "mod_dir": "/MFFS/"
+}

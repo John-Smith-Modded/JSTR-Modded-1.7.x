@@ -1,10 +1,12 @@
 {
-  "mod_id": "factorization",
-  "mod_name": "Factorization",
-  "mod_dir": "/Factorization/",
-  "mod_version": "v0.8.88.7",
-  "mc_version": "1.7.10",
-  "mod_authors": ["neptunepink"],
-  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284592-factorization-0-8-88-6",
-  "description": "Auto-crafting, ore processing, barrels, and other tools."
+    "mod_name": "Factorization",
+    "mod_id": "factorization",
+    "mod_version": "0.8.107",
+    "mc_version": "1.7.10",
+    "url_website": "http://minecraftforum.net/topic/1351802-",
+    "description": "Auto-crafting, ore processing, barrels, and other tools",
+    "mod_authors": [
+        "neptunepink"
+    ],
+    "mod_dir": "/Factorization/"
 }

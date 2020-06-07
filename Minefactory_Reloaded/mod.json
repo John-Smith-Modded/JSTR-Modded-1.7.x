@@ -1,10 +1,17 @@
 {
-  "mod_id": "MineFactoryReloaded",
-  "mod_name": "MineFactory Reloaded",
-  "mod_dir": "/Minefactory_Reloaded/",
-  "mod_version": "v2.8.2B1",
-  "mc_version": "1.7.10",
-  "mod_authors": ["PowerCrystals", "TehKrush", "AtomicStryker", "Feanorith", "skyboy026"],
-  "url_website": "http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/",
-  "description": "Automate everything!"
+    "mod_id": "MineFactoryReloaded",
+    "mod_name": "MineFactory Reloaded",
+    "mod_filename": "MineFactoryReloaded-[1.7.10]2.8.0RC6-5.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "PowerCrystals",
+        "TehKrush",
+        "AtomicStryker",
+        "Feanorith",
+        "skyboy026"
+    ],
+    "url_website": "http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/",
+    "description": "MFR aims to automate a number of tasks that previously would be difficult, boring, or work-intensive.",
+    "mod_version": "2.8.0RC6",
+    "mod_dir": "/Minefactory_Reloaded/"
 }

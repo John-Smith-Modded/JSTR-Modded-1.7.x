@@ -1,0 +1,13 @@
+{
+    "mod_id": "forbidden-magic",
+    "mod_name": "Forbidden Magic",
+    "mod_filename": "Forbidden Magic-1.7.10-0.561.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Spiteful_Fox"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/2305054-/",
+    "description": "A mod to add a little darkness to Thaumcraft",
+    "mod_version": "1.7.10-0.561",
+    "mod_dir": "/Forbidden_Magic/"
+}

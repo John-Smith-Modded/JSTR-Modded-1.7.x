@@ -1,10 +1,13 @@
 {
-  "mod_id": "EnderZoo",
-  "mod_name": "Ender Zoo",
-  "mod_dir": "/Ender_Zoo/",
-  "mod_version": "v1.0.15.32",
-  "mc_version": "1.7.10",
-  "mod_authors": ["crazypants"],
-  "url_website": "http://enderio.com",
-  "description": "More Mobs"
+    "mod_id": "EnderZoo",
+    "mod_name": "Ender Zoo",
+    "mod_filename": "EnderZoo-1.7.10-1.0.4.12_beta.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "crazypants"
+    ],
+    "url_website": "http://enderio.com",
+    "description": "New mobs in keep with 'native' minecraft mobs. Companion to Ender IO",
+    "mod_version": "1.7.10-1.0.4.12_beta",
+    "mod_dir": "/Ender_Zoo/"
 }

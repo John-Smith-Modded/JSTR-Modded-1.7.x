@@ -1,10 +1,13 @@
 {
-  "mod_id": "statues",
-  "mod_name": "Statues",
-  "mod_dir": "/Statues/",
-  "mod_version": "v2.1.4",
-  "mc_version": "1.7.10",
-  "mod_authors": ["AUTOMATIC_MAIDEN", "asiekierka"],
-  "url_website": "http://mc.shinonome.ch/doku.php?id=wiki:statues",
-  "description": "Adds a hammer used to craft Statues."
+    "mod_name": "Statues",
+    "mod_id": "statues",
+    "mod_version": "2.1.4",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "AUTOMATIC_MAIDEN",
+        "asiekierka"
+    ],
+    "url_website": "",
+    "description": "Adds a hammer used to craft Statues.",
+    "mod_dir": "/Statues/"
 }

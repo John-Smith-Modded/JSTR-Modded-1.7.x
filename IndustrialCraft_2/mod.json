@@ -1,10 +1,24 @@
 {
-  "mod_id": "IC2",
-  "mod_name": "IndustrialCraft 2",
-  "mod_dir": "/IndustrialCraft_2/",
-  "mod_version": "v2.2.761",
-  "mc_version": "1.7.10",
-  "mod_authors": ["Alblaka", "Player", "RichardG", "Thunderdark", "GregoriusT", "alexthesax", "Drashian", "Elementalist", "Feanturi", "Lurch1985", "SirusKing", "tahu44"],
-  "url_website": "http://www.industrial-craft.net",
-  "description": "Industrial age themed expansion for Minecraft."
+    "mod_name": "IndustrialCraft 2",
+    "mod_id": "IC2",
+    "mod_version": "1.7.03.01",
+    "mc_version": "1.7.10",
+    "url_website": "https://github.com/draknyte1/GTplusplus/wiki",
+    "description": "Adds over 100 new Multiblocks, Machines, etc to Gregtech.",
+    "mod_filename": "industrialcraft-2-2.6.210-ex110.jar",
+    "mod_authors": [
+        "Alblaka",
+        "Player",
+        "RichardG",
+        "Thunderdark",
+        "GregoriusT",
+        "alexthesax",
+        "Drashian",
+        "Elementalist",
+        "Feanturi",
+        "Lurch1985",
+        "SirusKing",
+        "tahu44"
+    ],
+    "mod_dir": "/IndustrialCraft_2/"
 }

@@ -1,10 +1,13 @@
 {
-  "mod_id": "Thaumcraft",
-  "mod_name": "Thaumcraft 4",
-  "mod_dir": "/Thaumcraft_4/",
-  "mod_version": "v4.2.3.0",
-  "mc_version": "1.7.10",
-  "mod_authors": ["Azanor"],
-  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130",
-  "description": "Adding a touch of magic to Minecraft."
+    "mod_id": "Thaumcraft",
+    "mod_name": "Thaumcraft 4",
+    "mod_filename": "Thaumcraft-1.7.10-4.2.3.5.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Azanor"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/2011841-thaumcraft",
+    "description": "Thaumaturgy is the capability of a magician to work miracles. This is what this mod is all about - drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.",
+    "mod_version": "1.7.10-4.2.3.5",
+    "mod_dir": "/Thaumcraft_4/"
 }

@@ -1,0 +1,17 @@
+{
+    "mod_id": "tinkers-mechworks",
+    "mod_name": "Tinkers' Mechworks",
+    "mod_filename": "TMechworks-1.7.10-0.2.9.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "mDiyo",
+        "fuj1n",
+        "ProgWML6",
+        "Sunstrike",
+        "Pillbox"
+    ],
+    "url_website": "",
+    "description": "Tinkers' Mechworks is a mod that adds various redstone machines.",
+    "mod_version": "0.2.9",
+    "mod_dir": "/Tinkers_Mechworks/"
+}

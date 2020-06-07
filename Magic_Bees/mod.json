@@ -1,10 +1,13 @@
 {
-  "mod_id": "MagicBees",
-  "mod_name": "Magic Bees",
-  "mod_dir": "/Magic_Bees/",
-  "mod_version": "v2.1.22",
-  "mc_version": "1.7.10",
-  "mod_authors": ["MysteriousAges"],
-  "url_website": "http://bit.ly/XFDvLY",
-  "description": "Magic themed bee expansion for Forestry."
+    "mod_id": "MagicBees",
+    "mod_name": "Magic Bees",
+    "mod_filename": "magicbees-1.7.10-2.4.4.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "MysteriousAges"
+    ],
+    "url_website": "http://bit.ly/XFDvLY",
+    "description": "Adds more Bee species to Forestry; provides some integration with Thaumcraft and other mods.",
+    "mod_version": "1.7.10-2.4.4",
+    "mod_dir": "/Magic_Bees/"
 }

@@ -1,0 +1,13 @@
+{
+    "mod_id": "modular-powersuits",
+    "mod_name": "Modular Powersuits",
+    "mod_filename": "ModularPowersuits-0.11.1.101.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "MachineMuse"
+    ],
+    "url_website": "http://machinemuse.net/",
+    "description": "High-tech expandable armor and tool/weapon",
+    "mod_version": "0.11.1.101",
+    "mod_dir": "/Modular_Powersuits/"
+}
